@@ -1,0 +1,1151 @@
+PlayerID,LoginDateTime,SessionDuration,LevelReached,ItemsPurchased,CurrencySpent,Region,Device,DeathsByLevel,TimeSpentPerLevel,GameModePlayed
+P0001,2025-04-18,36.94,3,Avatar,5.12,North America,Mobile,1,12.31,Ranked
+P0001,2025-05-08,56.41,1,Avatar,10.93,North America,Mobile,9,56.41,Solo
+P0002,2025-05-16,81.49,9,Avatar,11.02,Africa,PC,4,9.05,Team
+P0003,2025-04-28,47.43,3,Booster,47.86,Europe,Mobile,1,15.81,Solo
+P0004,2025-04-23,103.22,10,Emote,40.36,South America,PC,8,10.32,Team
+P0004,2025-04-08,117.04,7,Avatar,27.6,South America,PC,5,16.72,Solo
+P0005,2025-04-05,15.04,4,Weapon,49.26,Europe,Mobile,1,3.76,Team
+P0005,2025-04-25,40.58,6,Weapon,18.51,Europe,Mobile,10,6.76,Solo
+P0005,2025-04-18,87.2,2,Avatar,31.75,Europe,Mobile,3,43.6,Ranked
+P0005,2025-04-11,60.85,5,Weapon,34.41,Europe,Mobile,10,12.17,Ranked
+P0005,2025-04-21,102.71,1,Booster,41.09,Europe,Mobile,6,102.71,Solo
+P0005,2025-04-18,17.28,10,Emote,15.73,Europe,Mobile,6,1.73,Ranked
+P0005,2025-05-27,110.6,8,Weapon,13.24,Europe,Mobile,8,13.82,Solo
+P0005,2025-05-05,38.9,10,Emote,44.89,Europe,Mobile,5,3.89,Team
+P0005,2025-04-15,119.71,3,Skin,24.68,Europe,Mobile,1,39.9,Ranked
+P0005,2025-04-10,79.02,7,Emote,3.18,Europe,Mobile,9,11.29,Ranked
+P0006,2025-05-06,104.69,1,Avatar,36.04,Africa,Console,4,104.69,Ranked
+P0006,2025-05-20,80.51,2,Emote,21.74,Africa,Console,0,40.26,Team
+P0006,2025-05-17,106.34,5,Avatar,38.1,Africa,Console,1,21.27,Ranked
+P0006,2025-05-26,78.78,9,Booster,9.95,Africa,Console,2,8.75,Ranked
+P0006,2025-05-05,114.88,9,Emote,29.95,Africa,Console,0,12.76,Solo
+P0006,2025-04-08,112.2,5,Avatar,2.9,Africa,Console,1,22.44,Solo
+P0006,2025-04-06,90.51,2,Weapon,38.29,Africa,Console,10,45.26,Ranked
+P0006,2025-05-01,114.15,3,Avatar,26.38,Africa,Console,6,38.05,Team
+P0007,2025-05-15,32.13,5,Booster,49.76,Africa,Mobile,7,6.43,Team
+P0007,2025-05-28,66.93,2,Booster,11.23,Africa,Mobile,0,33.47,Solo
+P0007,2025-05-08,70.93,10,Skin,0.36,Africa,Mobile,3,7.09,Solo
+P0007,2025-04-05,109.6,6,Booster,25.71,Africa,Mobile,10,18.27,Solo
+P0008,2025-04-09,89.57,10,Emote,23.63,Europe,Mobile,6,8.96,Ranked
+P0008,2025-04-13,20.38,7,Emote,21.18,Europe,Mobile,0,2.91,Team
+P0008,2025-05-14,81.88,2,Booster,20.13,Europe,Mobile,1,40.94,Solo
+P0008,2025-04-16,31.07,9,Weapon,7.01,Europe,Mobile,4,3.45,Team
+P0008,2025-04-30,37.48,2,Avatar,40.4,Europe,Mobile,1,18.74,Team
+P0008,2025-04-04,81.74,9,Weapon,48.45,Europe,Mobile,2,9.08,Solo
+P0008,2025-04-27,63.42,4,Weapon,45.12,Europe,Mobile,6,15.86,Team
+P0008,2025-04-01,118.38,5,Avatar,14.26,Europe,Mobile,10,23.68,Team
+P0009,2025-04-19,33.95,1,Skin,36.79,Europe,PC,5,33.95,Ranked
+P0009,2025-04-04,15.52,8,Avatar,45.97,Europe,PC,2,1.94,Ranked
+P0009,2025-04-04,115.69,2,Skin,3.43,Europe,PC,10,57.84,Solo
+P0009,2025-05-26,35.87,2,Avatar,12.31,Europe,PC,0,17.93,Ranked
+P0009,2025-05-10,19.02,10,Booster,26.14,Europe,PC,3,1.9,Ranked
+P0009,2025-05-13,88.78,4,Booster,19.79,Europe,PC,7,22.2,Team
+P0009,2025-04-21,112.19,2,Avatar,22.91,Europe,PC,1,56.09,Solo
+P0009,2025-04-05,69.14,9,Booster,6.62,Europe,PC,1,7.68,Team
+P0010,2025-04-11,58.2,9,Avatar,15.13,Asia,Console,0,6.47,Ranked
+P0010,2025-05-13,99.88,5,Weapon,5.18,Asia,Console,4,19.98,Ranked
+P0010,2025-04-08,107.87,9,Avatar,13.62,Asia,Console,3,11.99,Solo
+P0010,2025-05-16,47.72,5,Skin,24.43,Asia,Console,1,9.54,Ranked
+P0011,2025-04-01,46.69,3,Weapon,48.99,Asia,PC,7,15.56,Ranked
+P0011,2025-05-06,87.62,9,Weapon,5.59,Asia,PC,8,9.74,Solo
+P0011,2025-04-03,101.81,10,Weapon,7.4,Asia,PC,0,10.18,Ranked
+P0011,2025-04-20,50.11,1,Weapon,10.5,Asia,PC,10,50.11,Team
+P0011,2025-04-07,48.9,9,Weapon,48.69,Asia,PC,3,5.43,Team
+P0011,2025-05-26,27.88,3,Booster,1.24,Asia,PC,6,9.29,Team
+P0011,2025-05-22,83.69,4,Skin,7.96,Asia,PC,6,20.92,Team
+P0012,2025-04-13,99.82,8,Weapon,15.26,South America,PC,3,12.48,Team
+P0013,2025-04-22,40.65,2,Avatar,17.56,Europe,Console,6,20.32,Team
+P0014,2025-04-08,106.47,5,Booster,29.03,Asia,PC,0,21.29,Solo
+P0014,2025-04-07,75.62,6,Emote,39.32,Asia,PC,9,12.6,Ranked
+P0014,2025-05-03,22.72,10,Emote,12.74,Asia,PC,0,2.27,Solo
+P0014,2025-05-04,111.81,9,Weapon,35.97,Asia,PC,5,12.42,Ranked
+P0014,2025-04-28,17.7,6,Skin,15.7,Asia,PC,4,2.95,Ranked
+P0014,2025-05-03,44.02,7,Booster,20.12,Asia,PC,8,6.29,Team
+P0014,2025-04-09,31.1,7,Weapon,37.41,Asia,PC,9,4.44,Ranked
+P0014,2025-05-07,43.1,9,Weapon,15.19,Asia,PC,6,4.79,Solo
+P0014,2025-05-21,73.8,6,Weapon,22.09,Asia,PC,8,12.3,Team
+P0015,2025-04-06,41.22,10,Weapon,4.67,Europe,Mobile,10,4.12,Team
+P0015,2025-04-20,34.71,4,Weapon,1.22,Europe,Mobile,7,8.68,Solo
+P0015,2025-05-10,103.47,2,Avatar,20.72,Europe,Mobile,3,51.73,Team
+P0015,2025-05-16,86.6,8,Skin,12.2,Europe,Mobile,1,10.82,Team
+P0015,2025-05-20,56.77,3,Skin,25.9,Europe,Mobile,8,18.92,Ranked
+P0015,2025-04-16,110.92,2,Emote,6.67,Europe,Mobile,10,55.46,Team
+P0015,2025-05-04,118.67,10,Emote,47.5,Europe,Mobile,9,11.87,Team
+P0015,2025-05-23,89.12,9,Avatar,41.53,Europe,Mobile,7,9.9,Team
+P0016,2025-04-17,92.7,5,Weapon,24.23,South America,Console,4,18.54,Ranked
+P0016,2025-04-29,18.52,5,Booster,13.59,South America,Console,8,3.7,Solo
+P0016,2025-04-06,25.22,4,Weapon,34.7,South America,Console,1,6.3,Team
+P0017,2025-05-05,61.25,1,Emote,41.64,South America,Console,9,61.25,Solo
+P0017,2025-05-31,86.51,10,Booster,23.85,South America,Console,4,8.65,Team
+P0017,2025-05-19,52.9,7,Avatar,37.38,South America,Console,9,7.56,Ranked
+P0017,2025-05-28,34.26,4,Skin,21.79,South America,Console,6,8.56,Team
+P0017,2025-04-22,83.58,7,Emote,8.25,South America,Console,2,11.94,Ranked
+P0017,2025-05-10,68.75,7,Skin,28.22,South America,Console,1,9.82,Ranked
+P0017,2025-05-12,57.15,8,Emote,2.51,South America,Console,5,7.14,Solo
+P0018,2025-04-22,93.74,7,Emote,37.6,South America,Console,4,13.39,Team
+P0018,2025-05-24,19.01,1,Booster,26.97,South America,Console,3,19.01,Ranked
+P0018,2025-05-12,17.55,1,Weapon,47.48,South America,Console,0,17.55,Solo
+P0018,2025-05-10,26.76,3,Avatar,33.47,South America,Console,3,8.92,Team
+P0019,2025-04-11,76.65,2,Skin,48.24,Asia,Console,9,38.33,Solo
+P0019,2025-04-02,112.18,10,Emote,45.4,Asia,Console,6,11.22,Ranked
+P0019,2025-05-31,88.65,2,Weapon,34.53,Asia,Console,1,44.33,Ranked
+P0019,2025-05-15,94.97,10,Avatar,39.81,Asia,Console,0,9.5,Solo
+P0019,2025-04-23,68.6,6,Booster,25.3,Asia,Console,0,11.43,Solo
+P0019,2025-05-25,56.21,8,Booster,21.68,Asia,Console,10,7.03,Solo
+P0019,2025-05-28,101.16,3,Avatar,8.81,Asia,Console,10,33.72,Team
+P0019,2025-04-18,77.75,9,Avatar,23.24,Asia,Console,4,8.64,Team
+P0020,2025-04-18,106.98,4,Emote,28.49,Europe,PC,5,26.75,Team
+P0020,2025-04-02,64.37,6,Booster,24.38,Europe,PC,4,10.73,Solo
+P0020,2025-04-22,40.76,10,Avatar,44.01,Europe,PC,0,4.08,Ranked
+P0020,2025-05-04,114.29,2,Emote,36.0,Europe,PC,8,57.15,Solo
+P0020,2025-05-19,36.44,8,Emote,35.59,Europe,PC,0,4.55,Ranked
+P0020,2025-04-06,42.37,7,Avatar,12.17,Europe,PC,5,6.05,Ranked
+P0021,2025-04-23,56.81,9,Emote,17.59,Africa,Mobile,4,6.31,Team
+P0021,2025-04-20,37.65,2,Skin,9.63,Africa,Mobile,8,18.82,Ranked
+P0021,2025-05-31,93.84,3,Emote,10.82,Africa,Mobile,4,31.28,Solo
+P0021,2025-05-17,74.85,9,Skin,14.15,Africa,Mobile,3,8.32,Ranked
+P0021,2025-04-19,35.02,3,Avatar,0.71,Africa,Mobile,2,11.67,Team
+P0021,2025-04-18,15.01,1,Weapon,14.61,Africa,Mobile,10,15.01,Ranked
+P0021,2025-05-26,92.81,2,Emote,28.7,Africa,Mobile,7,46.41,Solo
+P0021,2025-04-29,47.48,1,Emote,47.05,Africa,Mobile,1,47.48,Team
+P0022,2025-04-05,73.47,1,Avatar,7.46,South America,Console,4,73.47,Solo
+P0022,2025-04-06,119.33,2,Avatar,38.22,South America,Console,9,59.66,Ranked
+P0023,2025-04-25,59.56,8,Emote,43.01,Europe,Mobile,4,7.45,Team
+P0023,2025-05-07,78.31,10,Weapon,4.96,Europe,Mobile,10,7.83,Ranked
+P0023,2025-04-14,39.11,2,Avatar,11.99,Europe,Mobile,1,19.55,Solo
+P0023,2025-04-11,10.29,8,Booster,29.69,Europe,Mobile,0,1.29,Ranked
+P0023,2025-04-15,41.69,5,Skin,42.98,Europe,Mobile,10,8.34,Ranked
+P0023,2025-04-15,111.63,10,Weapon,40.2,Europe,Mobile,6,11.16,Ranked
+P0023,2025-04-08,69.9,3,Skin,41.33,Europe,Mobile,0,23.3,Team
+P0023,2025-04-11,97.19,10,Booster,41.21,Europe,Mobile,7,9.72,Ranked
+P0023,2025-04-08,61.56,5,Booster,20.13,Europe,Mobile,8,12.31,Ranked
+P0023,2025-05-05,64.32,2,Emote,1.99,Europe,Mobile,5,32.16,Ranked
+P0024,2025-04-06,35.18,10,Booster,47.54,Asia,PC,9,3.52,Ranked
+P0024,2025-04-03,93.94,3,Emote,25.95,Asia,PC,4,31.31,Team
+P0024,2025-04-12,119.66,7,Skin,40.71,Asia,PC,7,17.09,Ranked
+P0024,2025-04-23,54.92,6,Weapon,5.23,Asia,PC,5,9.15,Ranked
+P0024,2025-04-27,86.3,5,Avatar,47.26,Asia,PC,0,17.26,Ranked
+P0024,2025-04-30,19.69,5,Emote,5.8,Asia,PC,8,3.94,Team
+P0024,2025-05-23,118.69,9,Weapon,20.66,Asia,PC,8,13.19,Team
+P0024,2025-04-24,78.49,8,Skin,22.1,Asia,PC,3,9.81,Ranked
+P0024,2025-04-18,70.41,5,Emote,44.04,Asia,PC,1,14.08,Team
+P0024,2025-04-02,117.05,10,Booster,35.49,Asia,PC,8,11.71,Solo
+P0025,2025-04-06,34.72,2,Weapon,47.35,Africa,Console,7,17.36,Team
+P0026,2025-04-18,55.7,8,Avatar,12.19,Africa,Mobile,2,6.96,Team
+P0026,2025-04-25,30.97,10,Weapon,37.31,Africa,Mobile,1,3.1,Ranked
+P0026,2025-04-18,94.99,7,Avatar,46.71,Africa,Mobile,4,13.57,Team
+P0026,2025-05-23,10.28,5,Emote,29.0,Africa,Mobile,2,2.06,Ranked
+P0026,2025-04-29,69.24,6,Avatar,27.6,Africa,Mobile,6,11.54,Team
+P0027,2025-05-15,36.27,7,Emote,42.8,Asia,PC,0,5.18,Solo
+P0027,2025-04-21,91.92,7,Weapon,49.42,Asia,PC,7,13.13,Team
+P0027,2025-04-03,23.89,10,Emote,43.49,Asia,PC,1,2.39,Team
+P0027,2025-05-04,110.15,1,Weapon,7.21,Asia,PC,1,110.15,Ranked
+P0027,2025-05-01,95.97,5,Emote,31.16,Asia,PC,10,19.19,Team
+P0027,2025-04-06,103.69,9,Emote,47.71,Asia,PC,8,11.52,Team
+P0027,2025-04-03,77.92,4,Booster,34.22,Asia,PC,3,19.48,Ranked
+P0027,2025-05-18,19.94,2,Skin,35.19,Asia,PC,7,9.97,Ranked
+P0028,2025-04-03,45.68,1,Emote,17.92,Asia,PC,2,45.68,Team
+P0028,2025-04-16,68.43,10,Weapon,39.63,Asia,PC,2,6.84,Ranked
+P0028,2025-04-06,77.04,7,Emote,34.16,Asia,PC,9,11.01,Ranked
+P0029,2025-05-11,37.94,5,Emote,0.47,Europe,Console,4,7.59,Ranked
+P0029,2025-05-14,70.13,2,Avatar,47.26,Europe,Console,4,35.06,Team
+P0029,2025-05-11,115.82,5,Weapon,42.27,Europe,Console,6,23.16,Team
+P0030,2025-04-25,72.91,10,Booster,49.63,North America,PC,0,7.29,Team
+P0030,2025-05-24,82.41,5,Skin,28.3,North America,PC,9,16.48,Solo
+P0030,2025-05-18,64.64,5,Booster,30.35,North America,PC,3,12.93,Solo
+P0030,2025-05-11,30.91,5,Weapon,37.78,North America,PC,10,6.18,Ranked
+P0030,2025-04-07,109.37,1,Skin,39.43,North America,PC,9,109.37,Team
+P0030,2025-04-24,90.56,2,Emote,16.34,North America,PC,2,45.28,Team
+P0030,2025-04-13,24.54,9,Booster,26.54,North America,PC,2,2.73,Team
+P0030,2025-04-17,110.55,8,Booster,37.33,North America,PC,1,13.82,Team
+P0031,2025-05-19,116.32,7,Emote,18.29,North America,PC,0,16.62,Ranked
+P0031,2025-04-17,69.02,8,Booster,33.64,North America,PC,9,8.63,Team
+P0031,2025-04-25,100.47,6,Emote,33.74,North America,PC,0,16.75,Solo
+P0031,2025-05-10,107.27,9,Weapon,45.76,North America,PC,10,11.92,Team
+P0031,2025-04-05,79.89,8,Emote,15.11,North America,PC,1,9.99,Ranked
+P0031,2025-04-09,14.99,1,Skin,49.8,North America,PC,1,14.99,Team
+P0031,2025-04-16,107.6,3,Avatar,22.68,North America,PC,6,35.87,Team
+P0031,2025-05-08,91.65,3,Emote,32.75,North America,PC,9,30.55,Team
+P0032,2025-05-15,50.76,8,Booster,47.53,Asia,PC,1,6.34,Team
+P0032,2025-05-14,50.41,6,Weapon,19.91,Asia,PC,1,8.4,Solo
+P0032,2025-05-31,103.28,8,Avatar,33.14,Asia,PC,0,12.91,Solo
+P0032,2025-04-04,96.55,4,Weapon,39.35,Asia,PC,1,24.14,Solo
+P0032,2025-05-24,94.17,4,Weapon,10.8,Asia,PC,5,23.54,Ranked
+P0032,2025-05-20,26.23,10,Weapon,13.86,Asia,PC,2,2.62,Solo
+P0032,2025-05-05,37.57,3,Skin,33.05,Asia,PC,2,12.52,Solo
+P0033,2025-05-08,45.61,3,Emote,2.62,Asia,PC,8,15.2,Team
+P0034,2025-04-29,95.58,9,Avatar,5.45,North America,Console,3,10.62,Ranked
+P0034,2025-05-31,77.66,9,Skin,22.9,North America,Console,0,8.63,Team
+P0035,2025-05-14,21.88,8,Booster,44.96,South America,Console,9,2.73,Solo
+P0035,2025-04-10,17.23,5,Avatar,31.65,South America,Console,5,3.45,Ranked
+P0035,2025-04-25,119.41,9,Avatar,22.69,South America,Console,6,13.27,Team
+P0035,2025-04-07,97.24,2,Avatar,32.55,South America,Console,3,48.62,Ranked
+P0035,2025-04-28,59.67,4,Emote,16.95,South America,Console,6,14.92,Team
+P0035,2025-04-27,90.26,6,Booster,15.63,South America,Console,5,15.04,Team
+P0035,2025-04-10,85.55,8,Skin,4.56,South America,Console,1,10.69,Solo
+P0035,2025-04-28,20.62,6,Avatar,27.82,South America,Console,8,3.44,Solo
+P0036,2025-04-08,55.19,7,Booster,2.57,Asia,Mobile,9,7.88,Ranked
+P0036,2025-04-20,48.68,10,Emote,10.64,Asia,Mobile,3,4.87,Ranked
+P0036,2025-05-25,21.9,9,Booster,5.74,Asia,Mobile,9,2.43,Team
+P0036,2025-04-15,98.79,9,Avatar,30.68,Asia,Mobile,0,10.98,Ranked
+P0036,2025-05-09,112.2,5,Booster,9.02,Asia,Mobile,5,22.44,Solo
+P0036,2025-04-23,10.67,3,Skin,32.87,Asia,Mobile,2,3.56,Ranked
+P0036,2025-05-18,79.65,1,Weapon,37.31,Asia,Mobile,6,79.65,Solo
+P0036,2025-04-27,59.9,3,Booster,15.58,Asia,Mobile,9,19.97,Team
+P0036,2025-05-09,19.35,1,Avatar,7.87,Asia,Mobile,0,19.35,Solo
+P0037,2025-05-13,56.64,10,Weapon,20.71,Asia,Console,8,5.66,Team
+P0037,2025-04-08,47.97,2,Avatar,33.91,Asia,Console,7,23.98,Team
+P0038,2025-04-15,53.48,10,Booster,0.38,Asia,PC,3,5.35,Solo
+P0038,2025-05-20,25.1,5,Skin,16.41,Asia,PC,7,5.02,Team
+P0038,2025-05-18,57.37,3,Weapon,26.63,Asia,PC,8,19.12,Team
+P0038,2025-05-06,101.67,6,Skin,19.85,Asia,PC,6,16.95,Solo
+P0038,2025-04-02,60.57,2,Avatar,28.79,Asia,PC,6,30.29,Team
+P0038,2025-05-16,80.42,5,Booster,20.25,Asia,PC,2,16.08,Solo
+P0038,2025-05-22,114.24,8,Skin,45.99,Asia,PC,6,14.28,Ranked
+P0038,2025-05-25,21.64,7,Skin,20.02,Asia,PC,6,3.09,Ranked
+P0038,2025-05-26,44.13,6,Weapon,16.65,Asia,PC,1,7.36,Solo
+P0039,2025-05-03,31.33,6,Weapon,36.37,North America,Mobile,3,5.22,Team
+P0039,2025-04-07,26.11,4,Skin,30.12,North America,Mobile,2,6.53,Solo
+P0039,2025-05-31,95.01,8,Avatar,37.72,North America,Mobile,7,11.88,Team
+P0039,2025-05-14,111.66,10,Avatar,31.76,North America,Mobile,5,11.17,Ranked
+P0039,2025-05-26,116.81,6,Emote,21.99,North America,Mobile,7,19.47,Solo
+P0039,2025-05-11,43.31,5,Avatar,2.81,North America,Mobile,1,8.66,Ranked
+P0039,2025-04-20,60.79,1,Booster,18.44,North America,Mobile,1,60.79,Solo
+P0039,2025-05-12,105.07,2,Emote,29.7,North America,Mobile,7,52.53,Ranked
+P0039,2025-05-08,70.97,1,Avatar,45.45,North America,Mobile,10,70.97,Team
+P0040,2025-05-01,65.15,1,Booster,5.18,Asia,Mobile,1,65.15,Team
+P0040,2025-05-03,81.07,1,Emote,35.38,Asia,Mobile,8,81.07,Solo
+P0040,2025-05-04,77.08,6,Emote,45.9,Asia,Mobile,6,12.85,Team
+P0040,2025-05-20,47.22,10,Booster,39.46,Asia,Mobile,1,4.72,Solo
+P0041,2025-05-14,52.52,5,Avatar,42.58,North America,Mobile,2,10.5,Ranked
+P0041,2025-04-22,18.97,3,Emote,15.51,North America,Mobile,2,6.32,Team
+P0041,2025-05-09,87.97,2,Booster,27.95,North America,Mobile,2,43.98,Team
+P0041,2025-05-13,87.31,9,Emote,32.3,North America,Mobile,8,9.7,Solo
+P0041,2025-04-24,12.01,5,Booster,47.56,North America,Mobile,7,2.4,Solo
+P0041,2025-04-13,34.92,3,Skin,3.86,North America,Mobile,8,11.64,Solo
+P0042,2025-05-13,47.04,10,Weapon,29.86,Africa,PC,2,4.7,Solo
+P0042,2025-04-12,101.45,10,Skin,36.06,Africa,PC,6,10.14,Solo
+P0042,2025-04-24,84.4,4,Emote,30.53,Africa,PC,3,21.1,Team
+P0042,2025-05-05,36.31,8,Avatar,18.39,Africa,PC,7,4.54,Solo
+P0042,2025-04-30,94.64,7,Weapon,26.37,Africa,PC,3,13.52,Ranked
+P0042,2025-05-22,76.51,5,Booster,32.06,Africa,PC,8,15.3,Solo
+P0042,2025-05-30,21.28,9,Weapon,14.25,Africa,PC,4,2.36,Solo
+P0042,2025-04-29,109.58,3,Weapon,4.59,Africa,PC,7,36.53,Team
+P0042,2025-05-27,48.45,1,Avatar,2.66,Africa,PC,5,48.45,Team
+P0043,2025-04-24,34.7,6,Booster,41.96,South America,PC,2,5.78,Solo
+P0043,2025-04-09,14.21,8,Emote,41.56,South America,PC,7,1.78,Ranked
+P0043,2025-05-10,10.58,2,Weapon,12.8,South America,PC,8,5.29,Solo
+P0043,2025-05-31,90.0,9,Booster,5.56,South America,PC,3,10.0,Team
+P0044,2025-04-16,56.18,10,Emote,3.14,North America,PC,9,5.62,Team
+P0044,2025-05-05,11.81,9,Weapon,12.1,North America,PC,4,1.31,Ranked
+P0044,2025-04-28,10.17,6,Weapon,28.53,North America,PC,10,1.7,Solo
+P0044,2025-05-13,19.42,6,Avatar,47.67,North America,PC,8,3.24,Solo
+P0044,2025-05-21,118.72,9,Emote,19.52,North America,PC,0,13.19,Solo
+P0045,2025-05-18,11.79,2,Skin,12.06,Asia,Console,9,5.89,Team
+P0045,2025-05-18,93.23,3,Booster,17.61,Asia,Console,10,31.08,Solo
+P0045,2025-04-12,101.34,8,Weapon,23.93,Asia,Console,2,12.67,Ranked
+P0045,2025-04-05,88.76,8,Skin,14.67,Asia,Console,3,11.1,Solo
+P0045,2025-05-27,14.61,5,Avatar,19.91,Asia,Console,7,2.92,Ranked
+P0045,2025-04-17,14.03,4,Skin,17.85,Asia,Console,10,3.51,Team
+P0045,2025-04-22,40.05,6,Emote,44.47,Asia,Console,6,6.67,Team
+P0046,2025-05-15,64.73,9,Emote,40.06,Europe,Console,1,7.19,Team
+P0046,2025-04-28,76.27,3,Skin,14.69,Europe,Console,1,25.42,Ranked
+P0046,2025-04-21,82.7,5,Emote,30.13,Europe,Console,2,16.54,Team
+P0046,2025-05-15,58.83,8,Booster,36.34,Europe,Console,9,7.35,Solo
+P0046,2025-04-28,40.2,1,Emote,33.56,Europe,Console,5,40.2,Solo
+P0046,2025-05-03,98.12,3,Avatar,7.14,Europe,Console,10,32.71,Solo
+P0047,2025-04-05,35.96,6,Avatar,19.14,North America,PC,0,5.99,Team
+P0047,2025-05-09,26.88,8,Skin,18.6,North America,PC,9,3.36,Team
+P0047,2025-04-09,68.24,7,Weapon,32.48,North America,PC,1,9.75,Team
+P0047,2025-04-02,90.92,8,Avatar,19.35,North America,PC,1,11.37,Ranked
+P0047,2025-04-17,95.25,8,Booster,49.82,North America,PC,7,11.91,Solo
+P0047,2025-04-13,23.49,2,Emote,8.63,North America,PC,1,11.74,Team
+P0047,2025-05-22,85.01,6,Skin,17.37,North America,PC,8,14.17,Ranked
+P0047,2025-05-05,41.94,5,Weapon,35.59,North America,PC,5,8.39,Solo
+P0048,2025-04-13,97.13,4,Avatar,1.31,Europe,PC,9,24.28,Team
+P0048,2025-04-24,61.41,9,Skin,30.6,Europe,PC,1,6.82,Solo
+P0048,2025-04-20,53.8,8,Emote,20.54,Europe,PC,9,6.72,Ranked
+P0048,2025-04-05,23.79,6,Emote,3.71,Europe,PC,10,3.96,Ranked
+P0048,2025-05-04,47.9,9,Weapon,29.39,Europe,PC,6,5.32,Ranked
+P0048,2025-05-03,110.18,1,Booster,25.91,Europe,PC,2,110.18,Solo
+P0048,2025-04-11,45.49,4,Avatar,47.37,Europe,PC,4,11.37,Team
+P0048,2025-05-25,18.67,4,Booster,47.82,Europe,PC,2,4.67,Ranked
+P0048,2025-05-11,43.31,9,Weapon,25.13,Europe,PC,9,4.81,Solo
+P0049,2025-05-13,78.69,10,Avatar,42.13,Europe,PC,0,7.87,Team
+P0049,2025-05-23,105.02,2,Avatar,47.43,Europe,PC,4,52.51,Solo
+P0049,2025-05-12,33.19,10,Skin,30.91,Europe,PC,7,3.32,Team
+P0049,2025-05-27,78.99,5,Emote,47.83,Europe,PC,3,15.8,Ranked
+P0049,2025-05-22,98.81,7,Skin,22.68,Europe,PC,2,14.12,Team
+P0049,2025-04-29,55.72,8,Weapon,17.01,Europe,PC,5,6.96,Solo
+P0049,2025-05-26,89.02,6,Booster,6.54,Europe,PC,8,14.84,Team
+P0049,2025-05-06,21.68,4,Emote,6.13,Europe,PC,3,5.42,Team
+P0049,2025-04-10,20.65,5,Emote,43.21,Europe,PC,3,4.13,Team
+P0049,2025-05-26,109.25,6,Weapon,36.06,Europe,PC,2,18.21,Ranked
+P0050,2025-05-02,106.7,8,Emote,4.5,Africa,Console,8,13.34,Solo
+P0050,2025-04-30,116.34,4,Skin,17.64,Africa,Console,4,29.09,Ranked
+P0050,2025-05-02,75.73,8,Skin,26.83,Africa,Console,6,9.47,Team
+P0050,2025-04-09,107.07,6,Emote,18.3,Africa,Console,0,17.84,Team
+P0050,2025-05-07,71.8,6,Emote,14.43,Africa,Console,8,11.97,Ranked
+P0050,2025-04-29,94.08,5,Skin,34.02,Africa,Console,2,18.82,Ranked
+P0050,2025-04-07,53.33,6,Weapon,46.95,Africa,Console,3,8.89,Ranked
+P0050,2025-05-09,66.0,9,Weapon,2.27,Africa,Console,5,7.33,Solo
+P0051,2025-04-10,76.69,9,Avatar,16.4,Africa,Console,5,8.52,Solo
+P0051,2025-04-11,53.23,10,Avatar,42.13,Africa,Console,5,5.32,Ranked
+P0051,2025-05-03,101.11,9,Booster,35.44,Africa,Console,7,11.23,Team
+P0051,2025-05-23,11.83,6,Emote,5.48,Africa,Console,9,1.97,Ranked
+P0051,2025-04-20,97.64,1,Avatar,23.73,Africa,Console,9,97.64,Ranked
+P0051,2025-04-15,89.35,10,Avatar,8.53,Africa,Console,6,8.93,Team
+P0051,2025-04-10,100.38,4,Skin,28.63,Africa,Console,3,25.09,Solo
+P0051,2025-04-02,58.51,7,Weapon,20.65,Africa,Console,6,8.36,Solo
+P0052,2025-05-26,103.32,1,Weapon,6.9,Africa,Console,8,103.32,Ranked
+P0052,2025-04-21,119.79,8,Weapon,18.84,Africa,Console,7,14.97,Ranked
+P0052,2025-05-29,68.64,9,Booster,33.79,Africa,Console,9,7.63,Team
+P0052,2025-05-01,31.15,4,Weapon,27.9,Africa,Console,4,7.79,Team
+P0052,2025-05-20,41.79,4,Booster,35.25,Africa,Console,7,10.45,Ranked
+P0052,2025-04-23,71.65,5,Avatar,6.09,Africa,Console,6,14.33,Team
+P0052,2025-05-28,117.82,6,Booster,14.52,Africa,Console,1,19.64,Solo
+P0052,2025-04-23,111.64,5,Weapon,23.95,Africa,Console,8,22.33,Ranked
+P0052,2025-04-18,112.63,5,Avatar,5.46,Africa,Console,3,22.53,Solo
+P0053,2025-05-28,68.41,4,Booster,5.01,North America,Mobile,7,17.1,Solo
+P0053,2025-04-07,84.93,3,Weapon,48.23,North America,Mobile,6,28.31,Solo
+P0053,2025-05-12,112.85,8,Booster,32.53,North America,Mobile,5,14.11,Team
+P0053,2025-04-19,81.05,2,Avatar,28.71,North America,Mobile,0,40.52,Ranked
+P0054,2025-05-30,111.16,7,Booster,9.32,South America,PC,0,15.88,Team
+P0054,2025-04-01,42.82,10,Booster,46.42,South America,PC,4,4.28,Solo
+P0054,2025-04-30,118.8,9,Weapon,24.7,South America,PC,8,13.2,Ranked
+P0055,2025-05-22,22.39,3,Booster,22.95,Asia,PC,2,7.46,Ranked
+P0055,2025-04-01,91.03,5,Weapon,33.72,Asia,PC,2,18.21,Ranked
+P0055,2025-05-10,104.18,7,Skin,25.76,Asia,PC,6,14.88,Team
+P0055,2025-05-13,20.49,3,Weapon,16.18,Asia,PC,0,6.83,Team
+P0055,2025-04-17,52.19,8,Booster,47.7,Asia,PC,9,6.52,Team
+P0055,2025-05-17,73.02,5,Weapon,17.98,Asia,PC,0,14.6,Ranked
+P0055,2025-05-13,23.0,5,Avatar,20.27,Asia,PC,4,4.6,Solo
+P0055,2025-05-15,22.92,5,Weapon,30.73,Asia,PC,2,4.58,Team
+P0056,2025-05-18,118.77,6,Emote,35.1,Europe,Console,8,19.79,Team
+P0056,2025-05-22,83.05,4,Avatar,34.02,Europe,Console,1,20.76,Solo
+P0056,2025-05-04,59.14,6,Skin,45.86,Europe,Console,0,9.86,Solo
+P0056,2025-05-24,70.24,9,Weapon,28.64,Europe,Console,2,7.8,Solo
+P0056,2025-04-21,103.99,8,Avatar,34.01,Europe,Console,7,13.0,Solo
+P0056,2025-04-06,108.88,8,Avatar,22.67,Europe,Console,6,13.61,Solo
+P0056,2025-04-30,72.03,9,Booster,33.64,Europe,Console,0,8.0,Team
+P0056,2025-04-26,37.99,1,Skin,10.9,Europe,Console,0,37.99,Ranked
+P0057,2025-04-05,69.53,1,Emote,49.31,Asia,Mobile,0,69.53,Solo
+P0057,2025-04-19,54.98,3,Emote,48.92,Asia,Mobile,5,18.33,Ranked
+P0057,2025-05-28,52.07,7,Avatar,4.01,Asia,Mobile,2,7.44,Team
+P0057,2025-05-12,104.63,2,Emote,49.64,Asia,Mobile,8,52.31,Solo
+P0057,2025-04-09,90.06,4,Booster,37.81,Asia,Mobile,7,22.52,Solo
+P0057,2025-05-14,89.1,7,Weapon,18.96,Asia,Mobile,3,12.73,Ranked
+P0057,2025-04-30,48.08,5,Skin,46.87,Asia,Mobile,0,9.62,Solo
+P0058,2025-04-16,32.67,2,Avatar,1.68,Africa,PC,10,16.34,Ranked
+P0058,2025-05-16,105.94,4,Emote,2.21,Africa,PC,3,26.48,Ranked
+P0058,2025-05-05,33.9,1,Booster,25.19,Africa,PC,3,33.9,Solo
+P0058,2025-05-23,110.8,10,Booster,28.87,Africa,PC,3,11.08,Team
+P0058,2025-04-20,106.39,9,Booster,20.68,Africa,PC,0,11.82,Solo
+P0058,2025-05-06,114.34,3,Avatar,33.94,Africa,PC,7,38.11,Ranked
+P0058,2025-04-04,116.95,7,Emote,15.94,Africa,PC,6,16.71,Ranked
+P0059,2025-04-12,92.99,8,Booster,42.47,Asia,Console,2,11.62,Solo
+P0059,2025-05-22,60.93,1,Emote,20.63,Asia,Console,8,60.93,Ranked
+P0059,2025-05-04,24.75,4,Skin,10.17,Asia,Console,7,6.19,Team
+P0060,2025-05-17,101.23,1,Avatar,18.86,North America,Mobile,9,101.23,Team
+P0060,2025-04-03,106.1,4,Avatar,36.22,North America,Mobile,3,26.52,Ranked
+P0060,2025-05-01,32.98,6,Skin,47.85,North America,Mobile,3,5.5,Team
+P0060,2025-05-30,30.9,2,Emote,49.98,North America,Mobile,3,15.45,Ranked
+P0060,2025-05-15,76.48,4,Avatar,45.76,North America,Mobile,5,19.12,Team
+P0060,2025-05-20,41.14,8,Booster,32.44,North America,Mobile,4,5.14,Ranked
+P0061,2025-04-30,20.85,8,Booster,45.72,Africa,Console,5,2.61,Team
+P0061,2025-04-27,15.03,4,Booster,7.3,Africa,Console,8,3.76,Ranked
+P0061,2025-05-30,74.24,7,Booster,7.62,Africa,Console,3,10.61,Team
+P0061,2025-04-25,72.68,4,Booster,27.53,Africa,Console,4,18.17,Team
+P0061,2025-05-19,100.38,8,Booster,8.41,Africa,Console,2,12.55,Team
+P0061,2025-04-09,89.23,8,Avatar,45.84,Africa,Console,10,11.15,Solo
+P0062,2025-05-24,103.14,1,Weapon,20.62,Africa,PC,1,103.14,Solo
+P0063,2025-05-03,60.16,1,Avatar,31.89,North America,PC,7,60.16,Ranked
+P0063,2025-05-13,63.66,1,Skin,27.58,North America,PC,0,63.66,Ranked
+P0063,2025-05-04,89.44,9,Emote,0.86,North America,PC,2,9.94,Team
+P0064,2025-04-10,36.51,10,Booster,12.62,North America,Mobile,4,3.65,Ranked
+P0064,2025-05-21,53.66,6,Weapon,22.95,North America,Mobile,3,8.94,Team
+P0065,2025-05-25,81.49,1,Emote,20.26,North America,Mobile,8,81.49,Solo
+P0065,2025-05-01,16.17,1,Emote,8.57,North America,Mobile,6,16.17,Ranked
+P0065,2025-05-12,96.28,10,Skin,44.74,North America,Mobile,3,9.63,Solo
+P0065,2025-04-14,109.14,10,Skin,13.55,North America,Mobile,10,10.91,Team
+P0065,2025-05-30,40.84,9,Weapon,32.91,North America,Mobile,5,4.54,Ranked
+P0066,2025-04-10,92.75,7,Avatar,14.96,Europe,Mobile,3,13.25,Solo
+P0067,2025-05-28,69.46,7,Skin,7.0,South America,Mobile,8,9.92,Ranked
+P0067,2025-05-18,117.18,1,Skin,21.85,South America,Mobile,5,117.18,Solo
+P0067,2025-05-09,94.59,10,Booster,48.45,South America,Mobile,0,9.46,Team
+P0067,2025-05-11,40.07,8,Avatar,11.41,South America,Mobile,6,5.01,Team
+P0067,2025-04-28,30.43,10,Avatar,19.0,South America,Mobile,4,3.04,Ranked
+P0067,2025-05-22,37.11,2,Emote,13.4,South America,Mobile,10,18.55,Solo
+P0067,2025-04-10,91.36,6,Skin,5.33,South America,Mobile,4,15.23,Team
+P0067,2025-04-29,49.59,5,Weapon,6.63,South America,Mobile,6,9.92,Solo
+P0067,2025-04-29,71.27,9,Skin,5.16,South America,Mobile,5,7.92,Team
+P0067,2025-05-06,20.24,10,Skin,43.19,South America,Mobile,4,2.02,Team
+P0068,2025-05-17,109.12,4,Emote,26.06,South America,PC,2,27.28,Ranked
+P0068,2025-04-09,39.58,5,Weapon,7.3,South America,PC,6,7.92,Team
+P0068,2025-04-18,56.32,8,Weapon,18.06,South America,PC,10,7.04,Solo
+P0068,2025-05-02,75.32,4,Booster,5.35,South America,PC,0,18.83,Team
+P0068,2025-05-31,53.53,10,Booster,40.2,South America,PC,7,5.35,Team
+P0068,2025-04-22,57.37,10,Avatar,15.02,South America,PC,3,5.74,Solo
+P0068,2025-05-01,44.56,7,Emote,14.57,South America,PC,9,6.37,Team
+P0069,2025-04-18,99.81,7,Avatar,5.69,Asia,Console,3,14.26,Team
+P0069,2025-05-08,119.7,3,Skin,38.38,Asia,Console,7,39.9,Ranked
+P0069,2025-05-31,87.92,8,Skin,41.56,Asia,Console,6,10.99,Team
+P0069,2025-05-14,64.92,5,Weapon,12.63,Asia,Console,6,12.98,Solo
+P0070,2025-05-09,62.72,7,Emote,25.33,North America,Console,8,8.96,Ranked
+P0070,2025-04-03,96.98,6,Avatar,44.78,North America,Console,9,16.16,Ranked
+P0070,2025-05-11,110.58,2,Booster,32.88,North America,Console,2,55.29,Solo
+P0070,2025-05-12,77.39,10,Emote,33.87,North America,Console,5,7.74,Ranked
+P0070,2025-05-21,57.35,1,Avatar,12.94,North America,Console,8,57.35,Solo
+P0070,2025-05-06,73.86,10,Emote,22.29,North America,Console,7,7.39,Solo
+P0070,2025-05-20,84.75,9,Skin,17.25,North America,Console,7,9.42,Solo
+P0071,2025-05-29,115.79,2,Booster,7.08,Asia,Console,5,57.9,Ranked
+P0071,2025-04-30,96.27,9,Skin,17.42,Asia,Console,7,10.7,Team
+P0072,2025-04-20,14.92,2,Skin,42.46,Asia,PC,10,7.46,Solo
+P0072,2025-05-22,28.08,4,Weapon,8.72,Asia,PC,5,7.02,Ranked
+P0072,2025-05-06,56.9,8,Weapon,39.89,Asia,PC,2,7.11,Solo
+P0072,2025-05-11,82.3,7,Weapon,36.87,Asia,PC,7,11.76,Solo
+P0072,2025-05-08,57.25,1,Booster,10.74,Asia,PC,1,57.25,Ranked
+P0072,2025-05-07,21.19,9,Weapon,18.29,Asia,PC,7,2.35,Solo
+P0072,2025-04-08,38.86,8,Booster,48.3,Asia,PC,9,4.86,Ranked
+P0072,2025-04-25,77.24,10,Emote,17.4,Asia,PC,9,7.72,Solo
+P0073,2025-05-08,19.32,3,Booster,5.89,Asia,Mobile,1,6.44,Team
+P0073,2025-04-12,51.06,3,Avatar,19.42,Asia,Mobile,2,17.02,Ranked
+P0073,2025-05-07,52.21,3,Weapon,31.78,Asia,Mobile,8,17.4,Team
+P0074,2025-04-09,30.58,8,Booster,2.68,South America,Console,0,3.82,Ranked
+P0074,2025-05-02,25.02,7,Emote,25.27,South America,Console,6,3.57,Ranked
+P0074,2025-05-14,64.09,8,Avatar,8.36,South America,Console,0,8.01,Team
+P0075,2025-04-18,34.73,5,Avatar,39.04,Asia,PC,7,6.95,Solo
+P0075,2025-05-06,66.19,10,Avatar,13.39,Asia,PC,5,6.62,Solo
+P0075,2025-05-05,100.49,1,Weapon,22.07,Asia,PC,6,100.49,Ranked
+P0075,2025-04-07,90.96,4,Skin,43.74,Asia,PC,7,22.74,Team
+P0076,2025-04-29,105.18,2,Avatar,10.49,Asia,PC,5,52.59,Solo
+P0076,2025-05-26,88.18,7,Weapon,30.81,Asia,PC,3,12.6,Solo
+P0076,2025-05-22,16.53,6,Avatar,14.05,Asia,PC,2,2.76,Ranked
+P0076,2025-04-21,117.69,5,Avatar,28.64,Asia,PC,10,23.54,Team
+P0076,2025-05-23,20.47,7,Weapon,49.62,Asia,PC,2,2.92,Solo
+P0077,2025-04-21,101.13,7,Booster,7.11,Europe,Mobile,10,14.45,Team
+P0077,2025-04-27,51.27,2,Skin,39.73,Europe,Mobile,6,25.64,Ranked
+P0077,2025-05-03,92.48,6,Booster,47.51,Europe,Mobile,9,15.41,Team
+P0077,2025-04-01,105.58,2,Booster,48.61,Europe,Mobile,1,52.79,Ranked
+P0078,2025-04-28,100.73,8,Booster,16.14,South America,PC,5,12.59,Team
+P0078,2025-05-06,73.57,10,Skin,39.42,South America,PC,0,7.36,Team
+P0078,2025-04-07,78.88,8,Weapon,6.21,South America,PC,7,9.86,Solo
+P0078,2025-04-30,10.07,7,Weapon,49.78,South America,PC,10,1.44,Solo
+P0078,2025-04-20,27.49,5,Booster,32.73,South America,PC,1,5.5,Solo
+P0078,2025-04-24,83.1,3,Booster,19.82,South America,PC,3,27.7,Solo
+P0078,2025-04-28,82.1,2,Skin,10.67,South America,PC,2,41.05,Solo
+P0078,2025-05-08,34.88,8,Booster,0.4,South America,PC,1,4.36,Solo
+P0078,2025-05-26,56.45,3,Emote,3.54,South America,PC,1,18.82,Team
+P0079,2025-04-24,106.91,3,Weapon,38.67,North America,Console,10,35.64,Team
+P0079,2025-05-14,25.71,9,Weapon,0.42,North America,Console,7,2.86,Ranked
+P0080,2025-05-18,26.65,7,Weapon,34.33,Europe,Mobile,1,3.81,Ranked
+P0080,2025-05-28,21.05,2,Booster,36.5,Europe,Mobile,6,10.53,Ranked
+P0080,2025-04-21,97.02,4,Weapon,32.23,Europe,Mobile,8,24.25,Team
+P0080,2025-05-09,76.0,10,Skin,38.95,Europe,Mobile,10,7.6,Team
+P0080,2025-05-27,43.18,9,Emote,25.48,Europe,Mobile,4,4.8,Ranked
+P0080,2025-05-12,16.0,4,Weapon,19.29,Europe,Mobile,7,4.0,Team
+P0081,2025-05-27,117.55,6,Avatar,6.6,North America,Mobile,6,19.59,Team
+P0081,2025-04-24,70.1,3,Skin,47.72,North America,Mobile,0,23.37,Team
+P0081,2025-05-08,17.43,5,Skin,1.99,North America,Mobile,6,3.49,Solo
+P0081,2025-05-03,41.51,9,Emote,21.18,North America,Mobile,1,4.61,Team
+P0081,2025-05-11,69.02,10,Booster,13.87,North America,Mobile,1,6.9,Solo
+P0081,2025-05-03,111.3,3,Avatar,16.34,North America,Mobile,10,37.1,Ranked
+P0081,2025-05-19,101.8,2,Weapon,34.93,North America,Mobile,0,50.9,Team
+P0081,2025-04-16,19.48,7,Avatar,22.67,North America,Mobile,0,2.78,Solo
+P0081,2025-04-20,83.27,3,Weapon,0.63,North America,Mobile,0,27.76,Solo
+P0081,2025-04-11,64.61,6,Booster,25.86,North America,Mobile,2,10.77,Ranked
+P0082,2025-05-20,106.08,2,Emote,16.75,Europe,Mobile,4,53.04,Solo
+P0082,2025-05-04,17.03,10,Emote,3.85,Europe,Mobile,8,1.7,Ranked
+P0082,2025-04-24,16.1,10,Booster,18.38,Europe,Mobile,1,1.61,Solo
+P0082,2025-05-28,73.13,2,Skin,37.04,Europe,Mobile,0,36.56,Solo
+P0082,2025-05-25,104.92,4,Emote,23.59,Europe,Mobile,2,26.23,Solo
+P0082,2025-04-12,112.43,1,Emote,40.16,Europe,Mobile,3,112.43,Ranked
+P0083,2025-05-29,89.23,5,Skin,28.58,Europe,Console,8,17.85,Solo
+P0083,2025-05-14,109.21,3,Skin,40.22,Europe,Console,6,36.4,Solo
+P0083,2025-04-05,106.47,5,Avatar,16.37,Europe,Console,7,21.29,Team
+P0083,2025-04-01,50.58,5,Avatar,39.23,Europe,Console,3,10.12,Ranked
+P0083,2025-04-30,50.51,8,Avatar,36.62,Europe,Console,3,6.31,Solo
+P0083,2025-04-10,10.7,7,Booster,11.65,Europe,Console,10,1.53,Solo
+P0084,2025-05-19,82.3,5,Weapon,10.26,Asia,PC,6,16.46,Solo
+P0085,2025-05-16,40.78,1,Avatar,44.86,North America,PC,6,40.78,Solo
+P0085,2025-05-15,108.51,8,Skin,4.25,North America,PC,8,13.56,Ranked
+P0085,2025-04-09,80.09,7,Skin,29.59,North America,PC,6,11.44,Solo
+P0085,2025-05-13,116.06,4,Booster,13.05,North America,PC,6,29.02,Team
+P0085,2025-05-15,101.51,6,Weapon,22.64,North America,PC,1,16.92,Team
+P0085,2025-05-31,32.3,10,Weapon,7.77,North America,PC,7,3.23,Solo
+P0085,2025-04-30,44.54,2,Weapon,17.91,North America,PC,7,22.27,Ranked
+P0085,2025-04-20,60.97,2,Booster,7.88,North America,PC,9,30.48,Solo
+P0086,2025-04-10,20.03,4,Skin,19.81,Europe,Console,10,5.01,Team
+P0087,2025-04-02,114.73,8,Weapon,37.4,Asia,PC,1,14.34,Ranked
+P0087,2025-04-30,21.21,3,Weapon,0.6,Asia,PC,2,7.07,Solo
+P0087,2025-04-13,100.6,6,Skin,31.51,Asia,PC,9,16.77,Ranked
+P0087,2025-05-08,38.47,2,Weapon,49.86,Asia,PC,10,19.23,Solo
+P0087,2025-04-29,99.02,2,Emote,6.13,Asia,PC,0,49.51,Team
+P0088,2025-05-23,89.69,8,Emote,19.14,Africa,Console,2,11.21,Solo
+P0088,2025-04-23,33.62,3,Weapon,13.99,Africa,Console,0,11.21,Team
+P0088,2025-05-10,78.11,4,Emote,14.76,Africa,Console,8,19.53,Ranked
+P0089,2025-04-18,52.13,7,Avatar,32.13,North America,PC,3,7.45,Solo
+P0089,2025-05-11,119.35,9,Booster,49.47,North America,PC,7,13.26,Solo
+P0089,2025-05-05,95.96,6,Emote,25.12,North America,PC,4,15.99,Ranked
+P0089,2025-04-12,12.87,10,Booster,1.47,North America,PC,0,1.29,Solo
+P0089,2025-05-22,119.07,9,Weapon,38.34,North America,PC,2,13.23,Team
+P0089,2025-04-07,37.26,4,Skin,26.68,North America,PC,3,9.31,Team
+P0089,2025-05-07,103.12,7,Weapon,46.76,North America,PC,2,14.73,Team
+P0089,2025-04-16,75.18,6,Booster,1.41,North America,PC,9,12.53,Ranked
+P0090,2025-05-31,30.71,8,Emote,15.45,Europe,Mobile,0,3.84,Ranked
+P0090,2025-04-06,16.18,10,Emote,1.0,Europe,Mobile,0,1.62,Solo
+P0090,2025-04-22,110.97,4,Weapon,17.04,Europe,Mobile,5,27.74,Solo
+P0090,2025-04-04,12.41,10,Skin,45.86,Europe,Mobile,8,1.24,Ranked
+P0090,2025-05-26,50.14,2,Emote,35.23,Europe,Mobile,9,25.07,Team
+P0090,2025-04-07,47.02,6,Emote,48.79,Europe,Mobile,10,7.84,Solo
+P0090,2025-05-02,81.41,3,Avatar,48.44,Europe,Mobile,5,27.14,Ranked
+P0090,2025-04-15,83.21,3,Booster,15.34,Europe,Mobile,2,27.74,Team
+P0090,2025-04-12,90.17,10,Avatar,42.54,Europe,Mobile,0,9.02,Team
+P0090,2025-04-12,76.26,10,Skin,31.98,Europe,Mobile,7,7.63,Solo
+P0091,2025-04-05,36.18,6,Skin,31.81,Asia,Mobile,10,6.03,Solo
+P0091,2025-05-11,90.22,6,Weapon,0.57,Asia,Mobile,3,15.04,Team
+P0091,2025-05-15,17.46,5,Skin,36.02,Asia,Mobile,6,3.49,Solo
+P0092,2025-05-27,55.54,7,Skin,27.3,South America,PC,7,7.93,Team
+P0092,2025-05-21,105.05,4,Skin,22.56,South America,PC,4,26.26,Solo
+P0092,2025-04-02,45.06,2,Emote,17.09,South America,PC,2,22.53,Solo
+P0092,2025-05-17,18.25,2,Avatar,29.7,South America,PC,7,9.12,Team
+P0092,2025-05-16,13.41,3,Weapon,44.49,South America,PC,0,4.47,Ranked
+P0092,2025-04-07,46.42,4,Avatar,34.86,South America,PC,4,11.61,Team
+P0092,2025-05-13,40.97,4,Avatar,2.48,South America,PC,8,10.24,Solo
+P0092,2025-05-24,64.0,1,Skin,0.19,South America,PC,4,64.0,Team
+P0093,2025-04-07,12.83,3,Skin,14.59,South America,PC,7,4.28,Ranked
+P0093,2025-05-25,22.71,7,Booster,24.45,South America,PC,1,3.24,Team
+P0093,2025-05-12,69.85,3,Booster,44.27,South America,PC,2,23.28,Team
+P0093,2025-04-29,14.91,8,Booster,13.17,South America,PC,9,1.86,Team
+P0093,2025-04-04,26.62,2,Avatar,33.41,South America,PC,6,13.31,Solo
+P0093,2025-05-19,74.87,9,Avatar,42.04,South America,PC,6,8.32,Solo
+P0093,2025-05-05,85.58,8,Emote,44.08,South America,PC,4,10.7,Ranked
+P0093,2025-04-06,53.43,1,Avatar,28.56,South America,PC,9,53.43,Ranked
+P0093,2025-05-14,118.1,3,Emote,47.46,South America,PC,2,39.37,Solo
+P0093,2025-05-31,118.28,4,Emote,6.31,South America,PC,1,29.57,Solo
+P0094,2025-04-10,101.75,5,Skin,45.54,Europe,Mobile,1,20.35,Team
+P0094,2025-04-25,71.2,9,Avatar,42.83,Europe,Mobile,7,7.91,Team
+P0094,2025-05-29,106.08,10,Emote,26.13,Europe,Mobile,1,10.61,Ranked
+P0094,2025-04-27,26.46,10,Skin,29.13,Europe,Mobile,1,2.65,Ranked
+P0094,2025-05-07,95.75,5,Emote,44.01,Europe,Mobile,4,19.15,Ranked
+P0094,2025-04-25,82.03,10,Weapon,23.65,Europe,Mobile,4,8.2,Ranked
+P0094,2025-04-26,25.82,10,Skin,34.68,Europe,Mobile,6,2.58,Ranked
+P0095,2025-05-18,62.27,5,Booster,1.01,Europe,PC,4,12.45,Team
+P0095,2025-04-18,102.71,2,Emote,6.72,Europe,PC,5,51.35,Solo
+P0095,2025-04-18,90.17,10,Emote,4.46,Europe,PC,3,9.02,Ranked
+P0095,2025-05-29,100.64,8,Skin,43.36,Europe,PC,8,12.58,Ranked
+P0095,2025-05-21,27.49,5,Weapon,25.34,Europe,PC,8,5.5,Ranked
+P0095,2025-05-27,72.55,3,Weapon,43.76,Europe,PC,0,24.18,Solo
+P0096,2025-04-04,110.98,4,Emote,18.42,North America,Console,8,27.75,Team
+P0096,2025-04-26,79.9,2,Booster,1.53,North America,Console,7,39.95,Ranked
+P0096,2025-05-09,59.07,8,Booster,27.57,North America,Console,2,7.38,Ranked
+P0096,2025-05-24,108.39,2,Skin,1.37,North America,Console,2,54.2,Team
+P0097,2025-05-12,34.76,4,Avatar,32.58,Europe,PC,0,8.69,Team
+P0097,2025-05-26,95.83,1,Weapon,45.58,Europe,PC,9,95.83,Team
+P0097,2025-05-22,10.93,5,Booster,40.25,Europe,PC,10,2.19,Ranked
+P0097,2025-04-18,56.62,7,Weapon,22.95,Europe,PC,7,8.09,Team
+P0097,2025-04-20,84.49,10,Skin,29.22,Europe,PC,8,8.45,Team
+P0097,2025-05-13,116.31,6,Avatar,32.37,Europe,PC,4,19.39,Ranked
+P0097,2025-04-20,85.29,8,Booster,16.81,Europe,PC,10,10.66,Solo
+P0097,2025-04-21,104.76,5,Booster,35.55,Europe,PC,3,20.95,Ranked
+P0097,2025-04-10,66.9,4,Avatar,40.27,Europe,PC,6,16.73,Solo
+P0097,2025-05-13,45.15,3,Emote,1.27,Europe,PC,4,15.05,Ranked
+P0098,2025-04-25,91.04,10,Weapon,49.74,South America,Console,5,9.1,Ranked
+P0098,2025-05-17,88.47,9,Booster,39.24,South America,Console,8,9.83,Ranked
+P0098,2025-04-20,103.0,9,Emote,14.69,South America,Console,2,11.44,Solo
+P0098,2025-05-18,38.45,9,Booster,47.35,South America,Console,10,4.27,Solo
+P0098,2025-04-06,34.45,4,Emote,43.57,South America,Console,5,8.61,Ranked
+P0099,2025-04-19,61.01,2,Avatar,2.68,Asia,Mobile,9,30.5,Team
+P0099,2025-05-31,78.27,8,Emote,25.02,Asia,Mobile,8,9.78,Solo
+P0099,2025-04-20,55.44,3,Booster,49.62,Asia,Mobile,6,18.48,Solo
+P0099,2025-05-07,108.21,8,Weapon,15.82,Asia,Mobile,1,13.53,Solo
+P0099,2025-05-02,46.59,3,Skin,31.72,Asia,Mobile,7,15.53,Team
+P0099,2025-04-18,33.03,3,Emote,38.22,Asia,Mobile,1,11.01,Ranked
+P0100,2025-05-11,57.24,7,Skin,19.17,Africa,Console,8,8.18,Team
+P0100,2025-04-13,90.37,1,Avatar,37.84,Africa,Console,3,90.37,Team
+P0100,2025-04-02,84.44,4,Booster,34.68,Africa,Console,4,21.11,Solo
+P0101,2025-05-03,74.75,3,Booster,41.19,North America,Console,4,24.92,Solo
+P0101,2025-04-30,90.06,10,Weapon,16.89,North America,Console,5,9.01,Ranked
+P0101,2025-05-28,63.92,4,Emote,47.4,North America,Console,0,15.98,Solo
+P0102,2025-04-09,33.23,1,Skin,25.23,Europe,Mobile,5,33.23,Ranked
+P0102,2025-05-16,81.56,1,Booster,43.83,Europe,Mobile,8,81.56,Team
+P0102,2025-05-10,15.34,1,Skin,5.41,Europe,Mobile,0,15.34,Ranked
+P0102,2025-05-15,22.74,8,Booster,6.18,Europe,Mobile,7,2.84,Team
+P0103,2025-05-14,79.33,5,Avatar,33.08,Europe,Mobile,4,15.87,Team
+P0103,2025-05-10,76.62,3,Skin,41.53,Europe,Mobile,8,25.54,Team
+P0103,2025-05-17,77.95,5,Emote,39.24,Europe,Mobile,3,15.59,Solo
+P0104,2025-05-24,67.55,4,Booster,35.17,Europe,Console,2,16.89,Team
+P0104,2025-04-03,70.3,4,Booster,46.66,Europe,Console,3,17.57,Ranked
+P0104,2025-04-01,11.4,2,Emote,41.76,Europe,Console,2,5.7,Solo
+P0104,2025-05-31,19.91,9,Skin,36.18,Europe,Console,4,2.21,Solo
+P0104,2025-05-12,35.43,5,Skin,23.21,Europe,Console,2,7.09,Team
+P0104,2025-05-26,14.34,5,Booster,40.08,Europe,Console,6,2.87,Team
+P0104,2025-05-18,22.75,1,Weapon,42.6,Europe,Console,5,22.75,Solo
+P0104,2025-04-23,108.4,10,Skin,43.92,Europe,Console,5,10.84,Team
+P0104,2025-05-23,47.7,2,Emote,20.01,Europe,Console,4,23.85,Team
+P0104,2025-05-24,52.43,8,Weapon,32.44,Europe,Console,1,6.55,Team
+P0105,2025-04-07,55.76,10,Emote,40.11,North America,PC,2,5.58,Team
+P0105,2025-05-10,51.77,6,Weapon,1.44,North America,PC,7,8.63,Ranked
+P0105,2025-05-29,63.69,7,Booster,2.3,North America,PC,10,9.1,Team
+P0106,2025-05-26,84.57,10,Booster,28.25,North America,Mobile,8,8.46,Ranked
+P0106,2025-05-04,85.71,10,Weapon,21.64,North America,Mobile,7,8.57,Solo
+P0106,2025-04-23,83.01,7,Avatar,41.95,North America,Mobile,9,11.86,Solo
+P0106,2025-04-04,11.28,3,Emote,42.44,North America,Mobile,2,3.76,Ranked
+P0106,2025-04-05,92.66,6,Booster,16.54,North America,Mobile,0,15.44,Solo
+P0106,2025-05-03,34.5,7,Skin,40.86,North America,Mobile,7,4.93,Team
+P0107,2025-04-06,104.22,8,Emote,5.94,Africa,Console,10,13.03,Team
+P0107,2025-04-02,21.29,7,Skin,27.86,Africa,Console,1,3.04,Solo
+P0107,2025-05-21,76.46,10,Avatar,15.23,Africa,Console,8,7.65,Ranked
+P0107,2025-04-14,82.01,8,Skin,18.17,Africa,Console,3,10.25,Team
+P0107,2025-05-25,59.99,9,Booster,30.0,Africa,Console,7,6.67,Ranked
+P0107,2025-04-08,20.72,4,Booster,17.07,Africa,Console,8,5.18,Solo
+P0107,2025-05-04,51.13,2,Emote,44.84,Africa,Console,2,25.57,Solo
+P0107,2025-05-23,88.85,7,Weapon,12.71,Africa,Console,3,12.69,Solo
+P0108,2025-04-30,100.7,4,Emote,16.9,South America,PC,0,25.18,Ranked
+P0108,2025-05-30,79.66,10,Emote,38.61,South America,PC,7,7.97,Solo
+P0109,2025-05-02,10.48,1,Avatar,46.77,Africa,PC,7,10.48,Ranked
+P0109,2025-05-30,65.92,3,Weapon,28.93,Africa,PC,1,21.97,Ranked
+P0109,2025-04-25,82.33,10,Emote,25.21,Africa,PC,6,8.23,Team
+P0109,2025-05-09,110.75,4,Booster,19.89,Africa,PC,4,27.69,Team
+P0109,2025-04-29,98.53,3,Avatar,30.13,Africa,PC,4,32.84,Team
+P0109,2025-05-24,87.16,6,Avatar,36.84,Africa,PC,10,14.53,Ranked
+P0109,2025-04-14,32.1,10,Booster,14.53,Africa,PC,10,3.21,Ranked
+P0109,2025-04-09,117.95,3,Booster,27.12,Africa,PC,1,39.32,Ranked
+P0109,2025-05-19,48.75,8,Emote,28.53,Africa,PC,10,6.09,Ranked
+P0109,2025-05-18,108.33,9,Emote,43.87,Africa,PC,0,12.04,Team
+P0110,2025-04-25,25.99,1,Weapon,13.35,North America,PC,4,25.99,Solo
+P0110,2025-05-14,37.56,1,Weapon,39.22,North America,PC,8,37.56,Ranked
+P0110,2025-04-03,49.46,8,Avatar,30.81,North America,PC,3,6.18,Solo
+P0110,2025-05-18,81.18,7,Booster,25.55,North America,PC,10,11.6,Solo
+P0110,2025-04-04,111.91,7,Booster,47.84,North America,PC,8,15.99,Team
+P0110,2025-04-04,11.43,5,Emote,31.03,North America,PC,3,2.29,Solo
+P0110,2025-05-29,79.72,6,Avatar,27.33,North America,PC,3,13.29,Ranked
+P0110,2025-05-20,89.74,4,Skin,22.44,North America,PC,2,22.43,Team
+P0110,2025-04-12,90.86,2,Booster,2.03,North America,PC,8,45.43,Team
+P0111,2025-05-08,103.06,1,Weapon,23.32,Europe,PC,0,103.06,Team
+P0111,2025-04-10,112.15,10,Avatar,38.68,Europe,PC,10,11.21,Solo
+P0111,2025-04-20,63.96,10,Booster,17.9,Europe,PC,8,6.4,Ranked
+P0111,2025-04-15,115.27,9,Weapon,39.31,Europe,PC,6,12.81,Solo
+P0111,2025-05-05,69.07,2,Weapon,11.06,Europe,PC,10,34.53,Team
+P0112,2025-04-19,34.03,10,Avatar,23.74,Asia,Console,10,3.4,Ranked
+P0112,2025-04-01,22.62,6,Avatar,12.02,Asia,Console,9,3.77,Team
+P0112,2025-04-16,115.48,6,Skin,45.8,Asia,Console,6,19.25,Team
+P0112,2025-04-17,69.43,5,Booster,45.57,Asia,Console,8,13.89,Solo
+P0112,2025-05-22,65.96,8,Weapon,14.82,Asia,Console,5,8.24,Solo
+P0112,2025-05-03,19.06,2,Avatar,48.58,Asia,Console,8,9.53,Solo
+P0113,2025-05-13,79.25,4,Skin,21.21,North America,PC,3,19.81,Ranked
+P0114,2025-05-23,113.37,3,Booster,22.96,South America,Mobile,0,37.79,Solo
+P0114,2025-04-06,18.06,3,Avatar,27.9,South America,Mobile,3,6.02,Team
+P0114,2025-05-29,38.45,7,Emote,31.51,South America,Mobile,5,5.49,Team
+P0114,2025-04-02,52.85,2,Avatar,0.29,South America,Mobile,1,26.43,Ranked
+P0114,2025-05-19,92.05,1,Booster,42.41,South America,Mobile,8,92.05,Ranked
+P0114,2025-04-07,41.88,5,Emote,4.33,South America,Mobile,6,8.38,Ranked
+P0114,2025-04-26,100.43,1,Weapon,7.82,South America,Mobile,2,100.43,Team
+P0114,2025-05-18,53.01,9,Weapon,48.01,South America,Mobile,4,5.89,Team
+P0114,2025-05-14,107.57,6,Avatar,27.68,South America,Mobile,2,17.93,Solo
+P0115,2025-05-07,75.63,9,Booster,47.35,North America,PC,3,8.4,Ranked
+P0115,2025-05-18,91.56,6,Avatar,20.63,North America,PC,2,15.26,Solo
+P0116,2025-05-10,101.82,4,Avatar,9.07,Europe,PC,0,25.45,Solo
+P0116,2025-05-25,92.61,9,Skin,32.23,Europe,PC,4,10.29,Team
+P0116,2025-05-13,17.41,2,Emote,36.28,Europe,PC,5,8.71,Solo
+P0117,2025-05-12,35.8,5,Weapon,3.49,Europe,Mobile,5,7.16,Ranked
+P0117,2025-05-02,59.57,10,Avatar,15.28,Europe,Mobile,2,5.96,Ranked
+P0117,2025-05-07,72.35,6,Booster,8.43,Europe,Mobile,3,12.06,Team
+P0117,2025-05-21,34.37,7,Weapon,42.01,Europe,Mobile,10,4.91,Team
+P0117,2025-05-17,46.47,8,Booster,22.27,Europe,Mobile,7,5.81,Team
+P0117,2025-05-06,21.97,10,Weapon,42.09,Europe,Mobile,8,2.2,Solo
+P0118,2025-05-27,78.93,2,Skin,42.48,Asia,Mobile,9,39.47,Solo
+P0118,2025-05-08,54.56,10,Avatar,45.32,Asia,Mobile,4,5.46,Solo
+P0118,2025-05-05,108.34,9,Weapon,32.7,Asia,Mobile,5,12.04,Team
+P0118,2025-04-26,34.56,10,Weapon,42.86,Asia,Mobile,7,3.46,Ranked
+P0119,2025-04-26,50.03,1,Avatar,11.94,Africa,PC,10,50.03,Ranked
+P0119,2025-04-11,93.29,3,Avatar,7.96,Africa,PC,9,31.1,Team
+P0119,2025-05-13,105.94,3,Booster,36.6,Africa,PC,0,35.31,Ranked
+P0119,2025-04-15,93.76,4,Weapon,13.22,Africa,PC,0,23.44,Solo
+P0119,2025-05-13,32.75,6,Emote,23.48,Africa,PC,0,5.46,Team
+P0119,2025-04-03,117.86,6,Avatar,35.19,Africa,PC,10,19.64,Solo
+P0119,2025-05-24,40.08,5,Weapon,27.22,Africa,PC,6,8.02,Ranked
+P0119,2025-05-12,51.64,10,Skin,44.91,Africa,PC,8,5.16,Ranked
+P0119,2025-04-17,51.4,4,Booster,20.29,Africa,PC,7,12.85,Ranked
+P0120,2025-05-03,107.02,8,Avatar,11.5,Africa,PC,10,13.38,Solo
+P0120,2025-04-18,33.27,3,Skin,18.11,Africa,PC,10,11.09,Solo
+P0120,2025-04-15,55.61,6,Emote,5.67,Africa,PC,7,9.27,Ranked
+P0120,2025-04-14,74.99,7,Weapon,12.18,Africa,PC,9,10.71,Solo
+P0120,2025-05-08,27.72,9,Weapon,44.54,Africa,PC,0,3.08,Solo
+P0120,2025-04-11,38.41,3,Avatar,47.91,Africa,PC,9,12.8,Ranked
+P0120,2025-05-11,12.05,5,Avatar,10.83,Africa,PC,7,2.41,Solo
+P0120,2025-05-26,62.98,4,Avatar,30.04,Africa,PC,2,15.74,Team
+P0121,2025-04-11,89.66,6,Skin,29.83,Africa,Console,3,14.94,Team
+P0121,2025-04-25,52.4,2,Avatar,10.12,Africa,Console,10,26.2,Solo
+P0121,2025-04-27,100.92,10,Avatar,8.87,Africa,Console,9,10.09,Solo
+P0121,2025-04-03,106.55,9,Skin,37.62,Africa,Console,7,11.84,Ranked
+P0121,2025-05-13,24.34,10,Emote,41.38,Africa,Console,8,2.43,Ranked
+P0121,2025-04-27,50.74,1,Weapon,26.49,Africa,Console,7,50.74,Ranked
+P0121,2025-05-21,94.55,6,Avatar,40.23,Africa,Console,1,15.76,Ranked
+P0121,2025-04-28,24.73,8,Skin,45.5,Africa,Console,4,3.09,Solo
+P0121,2025-05-09,106.44,7,Skin,9.45,Africa,Console,9,15.21,Team
+P0121,2025-05-04,22.96,1,Booster,32.73,Africa,Console,6,22.96,Team
+P0122,2025-04-28,81.67,5,Emote,42.75,North America,PC,9,16.33,Team
+P0122,2025-04-24,77.31,7,Avatar,20.66,North America,PC,7,11.04,Solo
+P0122,2025-04-12,50.72,9,Booster,12.69,North America,PC,9,5.64,Team
+P0122,2025-04-23,95.16,7,Skin,6.9,North America,PC,3,13.59,Ranked
+P0122,2025-04-29,96.14,3,Emote,10.72,North America,PC,5,32.05,Solo
+P0122,2025-05-22,70.56,1,Skin,19.46,North America,PC,1,70.56,Solo
+P0123,2025-04-28,19.7,5,Avatar,18.54,South America,Mobile,0,3.94,Solo
+P0123,2025-05-17,52.28,7,Booster,32.81,South America,Mobile,9,7.47,Ranked
+P0123,2025-04-04,114.03,3,Skin,24.72,South America,Mobile,3,38.01,Ranked
+P0124,2025-04-03,96.24,9,Avatar,34.92,Asia,PC,2,10.69,Ranked
+P0124,2025-05-14,13.97,4,Weapon,0.01,Asia,PC,1,3.49,Ranked
+P0124,2025-04-18,95.76,6,Avatar,19.76,Asia,PC,3,15.96,Ranked
+P0124,2025-05-04,11.69,2,Avatar,27.48,Asia,PC,9,5.84,Solo
+P0124,2025-04-23,48.22,5,Weapon,30.32,Asia,PC,7,9.64,Solo
+P0124,2025-05-30,54.44,1,Avatar,8.75,Asia,PC,1,54.44,Team
+P0124,2025-05-06,17.96,5,Avatar,47.35,Asia,PC,4,3.59,Team
+P0124,2025-05-27,69.17,10,Emote,34.71,Asia,PC,9,6.92,Team
+P0124,2025-05-01,94.7,6,Avatar,34.08,Asia,PC,0,15.78,Team
+P0125,2025-04-05,52.09,4,Booster,35.06,North America,Console,6,13.02,Ranked
+P0125,2025-04-23,66.82,1,Weapon,41.61,North America,Console,4,66.82,Ranked
+P0125,2025-04-06,53.88,6,Weapon,27.73,North America,Console,7,8.98,Solo
+P0125,2025-04-21,48.89,10,Weapon,9.14,North America,Console,7,4.89,Team
+P0125,2025-05-18,31.96,4,Weapon,10.34,North America,Console,3,7.99,Team
+P0125,2025-05-24,78.05,3,Skin,5.99,North America,Console,10,26.02,Solo
+P0125,2025-05-13,64.19,1,Emote,47.9,North America,Console,5,64.19,Ranked
+P0125,2025-05-10,44.7,10,Avatar,24.54,North America,Console,4,4.47,Team
+P0126,2025-04-09,15.96,7,Skin,46.98,Europe,Mobile,8,2.28,Team
+P0126,2025-04-23,53.31,3,Avatar,48.83,Europe,Mobile,7,17.77,Team
+P0126,2025-04-21,85.81,1,Avatar,10.54,Europe,Mobile,1,85.81,Ranked
+P0126,2025-04-21,49.78,5,Weapon,27.43,Europe,Mobile,4,9.96,Solo
+P0126,2025-05-01,115.44,6,Emote,9.2,Europe,Mobile,3,19.24,Team
+P0126,2025-04-27,87.08,6,Booster,42.72,Europe,Mobile,7,14.51,Team
+P0126,2025-04-12,72.86,10,Skin,11.43,Europe,Mobile,4,7.29,Ranked
+P0127,2025-05-25,51.9,3,Skin,7.48,Africa,Console,2,17.3,Ranked
+P0127,2025-04-27,64.96,9,Emote,36.03,Africa,Console,4,7.22,Ranked
+P0127,2025-04-17,71.84,10,Weapon,19.92,Africa,Console,0,7.18,Solo
+P0127,2025-04-14,99.52,8,Booster,4.82,Africa,Console,4,12.44,Ranked
+P0128,2025-05-06,112.5,5,Skin,0.99,Asia,Mobile,5,22.5,Team
+P0128,2025-05-26,84.75,10,Avatar,28.84,Asia,Mobile,2,8.47,Solo
+P0128,2025-05-20,41.31,6,Emote,25.52,Asia,Mobile,1,6.89,Ranked
+P0128,2025-04-25,77.5,8,Weapon,47.83,Asia,Mobile,10,9.69,Ranked
+P0128,2025-05-22,112.14,7,Emote,30.62,Asia,Mobile,1,16.02,Ranked
+P0128,2025-04-06,27.82,4,Booster,15.84,Asia,Mobile,4,6.96,Team
+P0129,2025-05-27,58.94,6,Emote,29.35,South America,Console,6,9.82,Ranked
+P0129,2025-04-11,30.23,1,Booster,36.39,South America,Console,1,30.23,Solo
+P0129,2025-04-14,28.36,2,Emote,3.19,South America,Console,8,14.18,Solo
+P0129,2025-04-04,12.9,7,Skin,38.25,South America,Console,1,1.84,Ranked
+P0129,2025-04-17,77.99,2,Emote,46.58,South America,Console,4,38.99,Ranked
+P0129,2025-04-15,37.21,5,Weapon,31.32,South America,Console,8,7.44,Team
+P0129,2025-05-24,28.77,1,Booster,17.84,South America,Console,7,28.77,Ranked
+P0129,2025-04-30,117.25,9,Weapon,27.43,South America,Console,8,13.03,Team
+P0129,2025-04-12,74.99,8,Avatar,37.45,South America,Console,6,9.37,Ranked
+P0129,2025-05-04,80.38,9,Emote,45.45,South America,Console,8,8.93,Team
+P0130,2025-04-20,50.24,5,Skin,15.18,North America,Console,8,10.05,Solo
+P0130,2025-05-23,93.41,3,Avatar,14.34,North America,Console,0,31.14,Team
+P0130,2025-05-15,111.43,8,Emote,0.46,North America,Console,4,13.93,Team
+P0130,2025-05-09,35.43,1,Emote,18.68,North America,Console,8,35.43,Ranked
+P0131,2025-04-11,88.64,7,Skin,11.03,South America,PC,6,12.66,Team
+P0131,2025-05-11,36.35,10,Booster,34.23,South America,PC,10,3.64,Ranked
+P0131,2025-05-18,68.51,5,Skin,9.4,South America,PC,2,13.7,Team
+P0131,2025-04-09,41.86,8,Avatar,22.64,South America,PC,7,5.23,Ranked
+P0131,2025-04-13,45.27,3,Skin,48.49,South America,PC,2,15.09,Solo
+P0131,2025-04-07,41.03,3,Skin,21.92,South America,PC,3,13.68,Ranked
+P0131,2025-04-06,26.58,8,Booster,17.1,South America,PC,7,3.32,Solo
+P0132,2025-05-21,13.49,2,Emote,2.8,South America,Mobile,1,6.75,Solo
+P0132,2025-05-05,61.72,4,Skin,40.86,South America,Mobile,1,15.43,Team
+P0132,2025-05-20,88.62,7,Skin,12.36,South America,Mobile,3,12.66,Team
+P0132,2025-04-30,90.89,2,Weapon,33.3,South America,Mobile,7,45.45,Ranked
+P0132,2025-04-25,84.96,5,Skin,7.93,South America,Mobile,8,16.99,Team
+P0132,2025-05-04,23.44,8,Booster,14.94,South America,Mobile,0,2.93,Ranked
+P0133,2025-05-11,57.76,1,Avatar,39.72,North America,PC,1,57.76,Solo
+P0133,2025-04-26,96.81,1,Emote,29.05,North America,PC,9,96.81,Solo
+P0133,2025-04-10,50.85,2,Skin,7.88,North America,PC,10,25.43,Solo
+P0133,2025-05-10,47.23,1,Weapon,17.78,North America,PC,8,47.23,Solo
+P0134,2025-04-15,44.84,9,Emote,37.83,Europe,Console,3,4.98,Ranked
+P0134,2025-04-02,85.82,6,Skin,6.74,Europe,Console,7,14.3,Ranked
+P0135,2025-05-05,86.67,4,Booster,9.33,Africa,Console,5,21.67,Ranked
+P0135,2025-05-17,61.52,10,Avatar,8.02,Africa,Console,2,6.15,Ranked
+P0135,2025-04-29,42.52,5,Skin,18.36,Africa,Console,10,8.5,Ranked
+P0135,2025-05-03,51.69,3,Booster,30.99,Africa,Console,9,17.23,Solo
+P0135,2025-04-16,45.28,2,Emote,48.36,Africa,Console,3,22.64,Ranked
+P0135,2025-05-04,85.15,9,Booster,30.65,Africa,Console,6,9.46,Solo
+P0135,2025-05-12,45.42,2,Skin,32.94,Africa,Console,2,22.71,Ranked
+P0135,2025-04-12,106.08,4,Skin,24.27,Africa,Console,0,26.52,Solo
+P0136,2025-05-02,67.84,10,Weapon,2.45,South America,Mobile,9,6.78,Team
+P0136,2025-05-16,17.8,4,Skin,24.57,South America,Mobile,7,4.45,Ranked
+P0136,2025-05-22,80.28,6,Emote,37.17,South America,Mobile,5,13.38,Ranked
+P0136,2025-05-21,87.93,10,Skin,26.45,South America,Mobile,4,8.79,Team
+P0136,2025-04-05,113.91,9,Weapon,5.06,South America,Mobile,8,12.66,Solo
+P0136,2025-04-25,30.84,9,Weapon,12.44,South America,Mobile,8,3.43,Ranked
+P0136,2025-05-18,71.4,2,Emote,28.83,South America,Mobile,10,35.7,Ranked
+P0136,2025-04-28,107.11,3,Avatar,27.5,South America,Mobile,5,35.7,Solo
+P0136,2025-05-13,27.4,10,Booster,46.68,South America,Mobile,8,2.74,Team
+P0136,2025-04-21,102.93,7,Booster,21.53,South America,Mobile,9,14.7,Ranked
+P0137,2025-04-14,51.26,9,Emote,12.7,Africa,Mobile,7,5.7,Ranked
+P0137,2025-04-26,10.02,1,Avatar,29.79,Africa,Mobile,2,10.02,Team
+P0137,2025-05-27,43.2,5,Booster,10.74,Africa,Mobile,0,8.64,Solo
+P0137,2025-05-20,100.41,5,Avatar,25.56,Africa,Mobile,9,20.08,Ranked
+P0138,2025-04-30,49.12,3,Avatar,18.35,North America,PC,3,16.37,Team
+P0138,2025-04-15,38.19,5,Avatar,28.52,North America,PC,3,7.64,Solo
+P0138,2025-05-17,18.49,6,Avatar,8.65,North America,PC,1,3.08,Team
+P0139,2025-05-17,98.92,7,Booster,39.01,Asia,PC,5,14.13,Solo
+P0139,2025-05-27,99.89,7,Weapon,43.49,Asia,PC,10,14.27,Solo
+P0139,2025-05-25,76.25,1,Emote,38.87,Asia,PC,0,76.25,Ranked
+P0139,2025-04-20,67.68,6,Booster,28.25,Asia,PC,8,11.28,Ranked
+P0139,2025-05-15,34.29,1,Emote,36.58,Asia,PC,7,34.29,Ranked
+P0139,2025-05-19,75.46,9,Booster,11.1,Asia,PC,6,8.38,Solo
+P0139,2025-04-10,24.54,2,Skin,28.57,Asia,PC,8,12.27,Team
+P0139,2025-04-26,38.88,7,Weapon,21.72,Asia,PC,2,5.55,Ranked
+P0139,2025-05-01,71.52,8,Weapon,32.61,Asia,PC,8,8.94,Team
+P0139,2025-05-10,119.68,9,Booster,12.12,Asia,PC,6,13.3,Solo
+P0140,2025-04-08,83.89,7,Booster,17.42,Africa,PC,5,11.98,Team
+P0140,2025-05-09,82.1,5,Avatar,49.38,Africa,PC,7,16.42,Solo
+P0140,2025-05-10,26.04,1,Booster,9.98,Africa,PC,2,26.04,Solo
+P0140,2025-05-19,90.13,2,Weapon,36.98,Africa,PC,9,45.06,Solo
+P0140,2025-05-30,26.24,5,Skin,17.16,Africa,PC,4,5.25,Solo
+P0140,2025-04-29,61.83,6,Weapon,37.0,Africa,PC,3,10.3,Solo
+P0141,2025-05-06,63.13,3,Skin,34.94,Africa,Console,6,21.04,Ranked
+P0141,2025-05-08,109.66,9,Skin,12.77,Africa,Console,4,12.18,Solo
+P0141,2025-04-13,96.81,10,Skin,2.65,Africa,Console,1,9.68,Team
+P0141,2025-04-25,82.64,6,Emote,0.95,Africa,Console,3,13.77,Solo
+P0141,2025-04-25,65.94,2,Avatar,24.23,Africa,Console,8,32.97,Team
+P0141,2025-04-06,30.51,9,Skin,28.03,Africa,Console,0,3.39,Team
+P0141,2025-04-16,111.45,5,Weapon,24.5,Africa,Console,0,22.29,Team
+P0141,2025-04-23,85.27,6,Avatar,15.12,Africa,Console,4,14.21,Ranked
+P0141,2025-05-22,16.82,5,Skin,44.52,Africa,Console,8,3.36,Team
+P0142,2025-04-22,108.69,3,Avatar,36.49,Europe,PC,10,36.23,Solo
+P0142,2025-05-10,106.0,4,Weapon,12.02,Europe,PC,6,26.5,Team
+P0142,2025-04-20,110.07,6,Weapon,27.11,Europe,PC,10,18.34,Team
+P0142,2025-04-09,73.91,4,Avatar,15.45,Europe,PC,2,18.48,Solo
+P0142,2025-04-28,119.53,3,Weapon,46.65,Europe,PC,5,39.84,Ranked
+P0143,2025-05-31,89.14,3,Weapon,41.98,Africa,Mobile,0,29.71,Team
+P0143,2025-05-19,45.06,7,Booster,15.17,Africa,Mobile,2,6.44,Team
+P0144,2025-04-12,12.88,10,Avatar,13.34,North America,PC,9,1.29,Ranked
+P0144,2025-04-15,75.6,4,Skin,1.3,North America,PC,7,18.9,Ranked
+P0144,2025-04-09,65.26,10,Booster,35.6,North America,PC,2,6.53,Team
+P0144,2025-05-25,52.62,8,Weapon,8.19,North America,PC,0,6.58,Solo
+P0145,2025-05-31,55.43,4,Emote,3.31,North America,Console,9,13.86,Solo
+P0145,2025-05-02,85.66,8,Skin,21.38,North America,Console,9,10.71,Solo
+P0145,2025-05-18,100.68,6,Avatar,30.58,North America,Console,9,16.78,Team
+P0145,2025-05-05,67.78,1,Emote,5.47,North America,Console,0,67.78,Ranked
+P0145,2025-05-27,119.54,9,Skin,19.78,North America,Console,8,13.28,Ranked
+P0145,2025-04-25,66.77,1,Emote,14.56,North America,Console,4,66.77,Solo
+P0145,2025-05-20,101.04,8,Avatar,21.12,North America,Console,0,12.63,Solo
+P0146,2025-05-24,81.07,2,Weapon,25.03,Europe,Console,9,40.53,Ranked
+P0146,2025-05-31,108.38,9,Booster,19.65,Europe,Console,7,12.04,Solo
+P0146,2025-04-02,29.68,10,Emote,44.79,Europe,Console,1,2.97,Ranked
+P0146,2025-04-17,45.65,3,Skin,36.66,Europe,Console,1,15.22,Ranked
+P0146,2025-05-16,59.43,6,Emote,26.19,Europe,Console,8,9.9,Solo
+P0146,2025-05-10,114.47,7,Weapon,19.03,Europe,Console,5,16.35,Ranked
+P0146,2025-05-07,105.84,3,Weapon,43.44,Europe,Console,0,35.28,Solo
+P0146,2025-04-27,43.89,8,Skin,31.32,Europe,Console,2,5.49,Team
+P0146,2025-04-13,10.39,5,Emote,22.93,Europe,Console,8,2.08,Solo
+P0147,2025-04-16,33.86,8,Skin,20.51,Africa,Console,9,4.23,Team
+P0148,2025-05-27,70.21,10,Weapon,27.88,North America,PC,0,7.02,Ranked
+P0148,2025-04-12,26.31,6,Skin,7.27,North America,PC,10,4.38,Solo
+P0148,2025-05-07,102.18,5,Skin,46.02,North America,PC,1,20.44,Team
+P0148,2025-04-27,119.31,3,Avatar,14.22,North America,PC,9,39.77,Ranked
+P0148,2025-05-21,71.84,8,Skin,28.95,North America,PC,1,8.98,Ranked
+P0148,2025-05-20,42.92,6,Emote,41.01,North America,PC,8,7.15,Team
+P0148,2025-04-05,42.21,3,Booster,34.73,North America,PC,5,14.07,Solo
+P0148,2025-05-04,55.51,4,Skin,10.45,North America,PC,1,13.88,Ranked
+P0148,2025-05-07,90.27,9,Avatar,24.18,North America,PC,4,10.03,Solo
+P0148,2025-04-28,76.97,6,Avatar,26.27,North America,PC,5,12.83,Team
+P0149,2025-05-02,67.17,8,Avatar,40.4,Africa,Mobile,3,8.4,Team
+P0149,2025-05-16,41.95,4,Emote,5.91,Africa,Mobile,10,10.49,Solo
+P0149,2025-05-21,22.97,4,Emote,49.95,Africa,Mobile,0,5.74,Ranked
+P0150,2025-05-22,80.13,1,Booster,10.06,Asia,Mobile,4,80.13,Ranked
+P0150,2025-05-21,17.46,5,Skin,27.5,Asia,Mobile,1,3.49,Ranked
+P0150,2025-05-14,46.66,7,Skin,28.45,Asia,Mobile,2,6.67,Ranked
+P0150,2025-04-13,46.36,6,Emote,23.96,Asia,Mobile,0,7.73,Ranked
+P0150,2025-05-12,24.93,3,Avatar,23.03,Asia,Mobile,5,8.31,Ranked
+P0150,2025-04-30,96.24,7,Avatar,2.8,Asia,Mobile,4,13.75,Ranked
+P0151,2025-05-05,12.06,10,Booster,16.59,Asia,Mobile,1,1.21,Ranked
+P0151,2025-04-10,40.85,1,Avatar,49.18,Asia,Mobile,2,40.85,Team
+P0151,2025-05-07,76.63,3,Booster,5.84,Asia,Mobile,5,25.54,Ranked
+P0151,2025-05-16,13.48,7,Weapon,24.85,Asia,Mobile,5,1.93,Solo
+P0151,2025-04-29,101.24,5,Weapon,26.26,Asia,Mobile,1,20.25,Solo
+P0151,2025-04-24,96.34,4,Skin,22.19,Asia,Mobile,7,24.09,Solo
+P0151,2025-05-28,65.01,4,Avatar,46.18,Asia,Mobile,4,16.25,Team
+P0151,2025-05-20,46.01,2,Weapon,33.84,Asia,Mobile,3,23.0,Ranked
+P0151,2025-05-17,14.02,7,Skin,43.24,Asia,Mobile,0,2.0,Ranked
+P0151,2025-04-20,112.56,10,Skin,16.66,Asia,Mobile,1,11.26,Solo
+P0152,2025-05-07,93.43,4,Booster,10.03,Asia,PC,4,23.36,Team
+P0152,2025-05-05,45.11,8,Weapon,5.88,Asia,PC,2,5.64,Ranked
+P0152,2025-04-18,22.59,10,Weapon,25.7,Asia,PC,8,2.26,Ranked
+P0152,2025-04-23,70.43,5,Booster,47.16,Asia,PC,9,14.09,Solo
+P0152,2025-04-16,28.84,5,Avatar,44.61,Asia,PC,7,5.77,Ranked
+P0152,2025-04-04,24.31,8,Emote,2.52,Asia,PC,0,3.04,Ranked
+P0152,2025-04-06,56.91,3,Avatar,29.81,Asia,PC,10,18.97,Ranked
+P0152,2025-05-24,85.91,8,Booster,17.78,Asia,PC,3,10.74,Ranked
+P0152,2025-05-16,93.42,9,Emote,48.68,Asia,PC,9,10.38,Solo
+P0153,2025-04-30,20.7,5,Emote,32.22,North America,Mobile,7,4.14,Ranked
+P0153,2025-04-15,114.22,3,Booster,12.9,North America,Mobile,6,38.07,Ranked
+P0153,2025-04-12,86.96,6,Skin,22.66,North America,Mobile,1,14.49,Team
+P0154,2025-05-01,60.74,3,Avatar,38.4,North America,Console,9,20.25,Team
+P0154,2025-04-09,65.87,7,Booster,39.84,North America,Console,8,9.41,Ranked
+P0154,2025-05-12,17.8,5,Avatar,23.05,North America,Console,6,3.56,Ranked
+P0154,2025-04-16,78.3,9,Emote,48.69,North America,Console,1,8.7,Solo
+P0154,2025-04-22,32.91,10,Emote,39.22,North America,Console,9,3.29,Team
+P0154,2025-05-21,47.64,4,Skin,33.13,North America,Console,9,11.91,Solo
+P0154,2025-05-24,63.53,10,Avatar,23.15,North America,Console,1,6.35,Ranked
+P0154,2025-05-23,58.97,5,Skin,3.48,North America,Console,10,11.79,Team
+P0155,2025-05-02,80.95,1,Weapon,10.88,South America,Console,9,80.95,Solo
+P0155,2025-05-28,93.05,1,Emote,33.04,South America,Console,8,93.05,Solo
+P0155,2025-04-19,52.9,10,Booster,9.78,South America,Console,4,5.29,Team
+P0155,2025-05-07,97.38,5,Booster,35.89,South America,Console,1,19.48,Team
+P0155,2025-05-08,10.89,9,Booster,42.38,South America,Console,0,1.21,Team
+P0155,2025-04-24,109.12,1,Booster,35.17,South America,Console,1,109.12,Solo
+P0155,2025-05-26,41.04,1,Avatar,21.59,South America,Console,6,41.04,Solo
+P0155,2025-05-11,44.99,7,Avatar,19.08,South America,Console,3,6.43,Team
+P0155,2025-05-13,29.08,3,Booster,27.77,South America,Console,6,9.69,Solo
+P0155,2025-04-10,41.73,3,Skin,0.58,South America,Console,2,13.91,Solo
+P0156,2025-04-06,25.09,7,Avatar,44.68,South America,PC,6,3.58,Team
+P0156,2025-05-10,29.78,9,Emote,27.6,South America,PC,6,3.31,Team
+P0156,2025-04-23,34.83,7,Emote,0.37,South America,PC,3,4.98,Ranked
+P0156,2025-05-16,65.19,7,Skin,28.82,South America,PC,0,9.31,Ranked
+P0156,2025-05-07,63.16,6,Skin,29.01,South America,PC,2,10.53,Solo
+P0156,2025-05-17,90.44,5,Avatar,25.85,South America,PC,9,18.09,Team
+P0156,2025-04-06,36.98,2,Avatar,31.68,South America,PC,4,18.49,Ranked
+P0156,2025-05-10,15.81,6,Emote,38.93,South America,PC,7,2.64,Ranked
+P0157,2025-05-17,46.47,6,Skin,14.46,South America,Mobile,9,7.75,Team
+P0157,2025-05-18,43.45,10,Emote,3.07,South America,Mobile,9,4.35,Team
+P0157,2025-04-11,73.01,5,Booster,31.22,South America,Mobile,7,14.6,Ranked
+P0157,2025-04-06,23.95,2,Avatar,12.6,South America,Mobile,4,11.97,Team
+P0157,2025-04-18,104.36,1,Weapon,5.58,South America,Mobile,9,104.36,Ranked
+P0157,2025-05-18,26.62,8,Booster,40.39,South America,Mobile,3,3.33,Team
+P0157,2025-05-02,29.89,9,Skin,17.14,South America,Mobile,2,3.32,Solo
+P0157,2025-05-09,112.73,3,Emote,37.64,South America,Mobile,6,37.58,Team
+P0157,2025-04-16,82.67,3,Booster,28.89,South America,Mobile,0,27.56,Solo
+P0158,2025-04-11,61.04,8,Avatar,23.81,North America,PC,3,7.63,Team
+P0158,2025-04-25,85.19,7,Avatar,13.13,North America,PC,6,12.17,Team
+P0158,2025-04-01,41.77,8,Avatar,33.92,North America,PC,10,5.22,Team
+P0158,2025-04-03,20.71,9,Emote,17.69,North America,PC,9,2.3,Ranked
+P0158,2025-05-29,81.73,5,Skin,13.52,North America,PC,4,16.35,Team
+P0159,2025-05-20,84.28,4,Weapon,33.59,South America,Console,8,21.07,Ranked
+P0159,2025-04-22,84.55,3,Skin,27.38,South America,Console,1,28.18,Team
+P0159,2025-04-01,55.24,9,Booster,34.27,South America,Console,3,6.14,Solo
+P0159,2025-05-17,41.16,4,Skin,1.19,South America,Console,0,10.29,Solo
+P0159,2025-05-31,75.36,4,Skin,31.9,South America,Console,1,18.84,Ranked
+P0159,2025-05-25,76.52,7,Avatar,38.19,South America,Console,2,10.93,Ranked
+P0159,2025-05-28,22.19,3,Skin,14.73,South America,Console,10,7.4,Team
+P0159,2025-04-30,111.5,5,Booster,34.61,South America,Console,4,22.3,Team
+P0159,2025-04-11,95.88,5,Booster,19.14,South America,Console,0,19.18,Solo
+P0159,2025-04-17,115.12,5,Emote,22.03,South America,Console,3,23.02,Solo
+P0160,2025-05-12,64.13,3,Weapon,38.44,South America,PC,9,21.38,Ranked
+P0160,2025-05-12,21.69,8,Skin,12.95,South America,PC,1,2.71,Ranked
+P0160,2025-04-05,72.85,5,Emote,0.94,South America,PC,2,14.57,Team
+P0160,2025-05-12,80.44,1,Weapon,19.52,South America,PC,5,80.44,Ranked
+P0160,2025-05-28,53.05,1,Emote,35.38,South America,PC,7,53.05,Ranked
+P0160,2025-04-28,54.43,2,Emote,11.29,South America,PC,7,27.21,Ranked
+P0160,2025-04-08,72.4,6,Emote,34.09,South America,PC,0,12.07,Team
+P0160,2025-05-11,119.67,2,Booster,26.73,South America,PC,1,59.84,Team
+P0160,2025-05-24,60.56,5,Avatar,10.16,South America,PC,0,12.11,Ranked
+P0160,2025-04-25,82.68,5,Skin,19.51,South America,PC,10,16.54,Ranked
+P0161,2025-05-27,79.61,4,Skin,1.78,South America,PC,9,19.9,Solo
+P0161,2025-04-16,63.82,2,Emote,32.17,South America,PC,8,31.91,Ranked
+P0161,2025-05-24,99.3,1,Booster,16.96,South America,PC,0,99.3,Solo
+P0161,2025-04-26,23.0,9,Avatar,47.0,South America,PC,2,2.56,Team
+P0161,2025-05-18,73.73,2,Emote,36.77,South America,PC,10,36.87,Solo
+P0161,2025-04-02,61.83,10,Weapon,12.13,South America,PC,0,6.18,Solo
+P0162,2025-05-23,97.31,8,Avatar,8.53,North America,Console,1,12.16,Ranked
+P0162,2025-05-23,99.92,2,Avatar,29.75,North America,Console,3,49.96,Team
+P0162,2025-04-05,98.49,7,Emote,40.58,North America,Console,5,14.07,Team
+P0163,2025-04-09,45.37,4,Booster,29.65,Africa,Mobile,1,11.34,Solo
+P0163,2025-04-08,40.13,7,Avatar,34.81,Africa,Mobile,2,5.73,Solo
+P0164,2025-04-03,24.67,10,Skin,38.88,Europe,Mobile,7,2.47,Team
+P0164,2025-04-06,10.7,3,Avatar,35.34,Europe,Mobile,4,3.57,Solo
+P0164,2025-04-27,86.29,8,Weapon,6.34,Europe,Mobile,10,10.79,Ranked
+P0164,2025-04-18,67.54,7,Avatar,46.9,Europe,Mobile,0,9.65,Solo
+P0164,2025-05-09,29.8,8,Booster,47.51,Europe,Mobile,5,3.73,Ranked
+P0164,2025-04-27,10.5,4,Avatar,5.88,Europe,Mobile,1,2.62,Solo
+P0164,2025-05-10,49.81,9,Weapon,10.96,Europe,Mobile,4,5.53,Ranked
+P0164,2025-04-04,31.31,3,Emote,42.19,Europe,Mobile,7,10.44,Ranked
+P0165,2025-05-30,14.74,6,Booster,10.48,Europe,Mobile,5,2.46,Team
+P0165,2025-05-10,98.57,8,Skin,5.22,Europe,Mobile,8,12.32,Solo
+P0165,2025-04-12,27.39,1,Skin,25.75,Europe,Mobile,3,27.39,Team
+P0166,2025-04-21,56.1,6,Booster,38.95,Africa,Mobile,3,9.35,Solo
+P0166,2025-04-07,36.08,7,Weapon,18.78,Africa,Mobile,1,5.15,Solo
+P0166,2025-05-01,74.36,1,Avatar,7.25,Africa,Mobile,7,74.36,Team
+P0166,2025-04-12,52.61,3,Booster,35.99,Africa,Mobile,4,17.54,Team
+P0166,2025-04-13,46.95,1,Booster,28.43,Africa,Mobile,2,46.95,Ranked
+P0166,2025-04-08,103.68,8,Booster,8.56,Africa,Mobile,3,12.96,Team
+P0166,2025-05-27,42.47,3,Weapon,47.64,Africa,Mobile,9,14.16,Ranked
+P0166,2025-05-06,104.05,2,Emote,42.85,Africa,Mobile,3,52.02,Team
+P0167,2025-04-18,11.6,7,Weapon,43.63,South America,Console,5,1.66,Ranked
+P0167,2025-04-28,73.74,10,Skin,45.69,South America,Console,6,7.37,Solo
+P0167,2025-04-03,14.41,8,Skin,38.43,South America,Console,6,1.8,Ranked
+P0167,2025-05-04,53.38,2,Skin,24.76,South America,Console,8,26.69,Team
+P0167,2025-05-19,11.37,7,Booster,6.64,South America,Console,3,1.62,Solo
+P0167,2025-05-12,119.88,1,Weapon,33.45,South America,Console,7,119.88,Team
+P0167,2025-05-25,72.74,10,Emote,48.82,South America,Console,2,7.27,Solo
+P0167,2025-05-26,87.34,3,Skin,31.34,South America,Console,10,29.11,Team
+P0167,2025-04-05,52.34,6,Emote,1.64,South America,Console,4,8.72,Ranked
+P0167,2025-05-15,114.07,9,Skin,39.72,South America,Console,9,12.67,Ranked
+P0168,2025-05-31,110.1,6,Booster,5.55,North America,Mobile,7,18.35,Solo
+P0168,2025-05-10,14.5,6,Skin,32.41,North America,Mobile,8,2.42,Solo
+P0168,2025-05-16,95.09,3,Skin,11.93,North America,Mobile,10,31.7,Team
+P0168,2025-05-01,91.11,10,Weapon,10.49,North America,Mobile,5,9.11,Ranked
+P0168,2025-04-23,108.77,9,Skin,21.15,North America,Mobile,1,12.09,Ranked
+P0168,2025-04-24,47.97,8,Skin,26.33,North America,Mobile,7,6.0,Ranked
+P0169,2025-04-29,78.3,2,Emote,44.6,Africa,Console,1,39.15,Solo
+P0169,2025-04-06,52.98,3,Skin,47.91,Africa,Console,1,17.66,Team
+P0169,2025-04-11,40.35,3,Weapon,7.52,Africa,Console,8,13.45,Team
+P0169,2025-05-31,79.0,5,Avatar,48.48,Africa,Console,2,15.8,Team
+P0169,2025-05-01,48.14,8,Booster,32.23,Africa,Console,3,6.02,Ranked
+P0169,2025-04-05,12.42,4,Emote,32.23,Africa,Console,9,3.1,Ranked
+P0169,2025-04-22,82.13,6,Avatar,29.67,Africa,Console,8,13.69,Team
+P0169,2025-04-29,60.38,10,Booster,44.91,Africa,Console,2,6.04,Solo
+P0169,2025-05-21,38.6,8,Skin,48.54,Africa,Console,2,4.83,Team
+P0170,2025-04-11,78.05,3,Weapon,26.77,Asia,Console,2,26.02,Ranked
+P0170,2025-05-24,87.89,3,Skin,11.9,Asia,Console,5,29.3,Solo
+P0170,2025-05-07,23.91,5,Avatar,9.22,Asia,Console,0,4.78,Team
+P0170,2025-05-13,44.86,6,Avatar,18.65,Asia,Console,2,7.48,Solo
+P0170,2025-05-05,43.17,1,Weapon,46.55,Asia,Console,7,43.17,Team
+P0170,2025-05-30,45.22,1,Avatar,27.31,Asia,Console,5,45.22,Ranked
+P0171,2025-05-31,92.96,10,Avatar,7.35,South America,Console,7,9.3,Ranked
+P0171,2025-04-22,85.81,8,Avatar,6.97,South America,Console,1,10.73,Solo
+P0171,2025-04-20,12.73,10,Skin,22.3,South America,Console,5,1.27,Solo
+P0171,2025-04-04,76.9,4,Booster,26.32,South America,Console,3,19.23,Ranked
+P0171,2025-04-02,19.19,8,Skin,33.58,South America,Console,8,2.4,Ranked
+P0172,2025-04-21,76.35,9,Booster,45.42,Europe,Console,6,8.48,Solo
+P0172,2025-04-10,88.76,7,Skin,19.31,Europe,Console,4,12.68,Team
+P0172,2025-04-23,48.65,8,Emote,4.38,Europe,Console,6,6.08,Ranked
+P0172,2025-05-22,58.68,3,Emote,48.52,Europe,Console,6,19.56,Ranked
+P0172,2025-04-09,101.91,10,Booster,7.18,Europe,Console,7,10.19,Solo
+P0172,2025-05-26,67.78,6,Avatar,46.66,Europe,Console,6,11.3,Solo
+P0172,2025-04-06,10.73,5,Emote,8.74,Europe,Console,9,2.15,Team
+P0173,2025-05-24,51.99,9,Booster,2.11,Europe,PC,9,5.78,Team
+P0173,2025-04-20,64.35,8,Skin,1.34,Europe,PC,2,8.04,Solo
+P0173,2025-04-17,43.02,8,Booster,32.69,Europe,PC,6,5.38,Solo
+P0174,2025-05-12,36.92,2,Skin,24.65,South America,Mobile,9,18.46,Team
+P0174,2025-05-18,49.79,8,Booster,21.8,South America,Mobile,10,6.22,Ranked
+P0174,2025-05-14,62.36,2,Avatar,25.63,South America,Mobile,0,31.18,Team
+P0175,2025-04-04,26.08,8,Weapon,6.77,Europe,Mobile,0,3.26,Ranked
+P0175,2025-04-18,49.73,6,Avatar,14.49,Europe,Mobile,10,8.29,Solo
+P0175,2025-05-30,18.45,4,Skin,9.16,Europe,Mobile,9,4.61,Ranked
+P0175,2025-05-19,28.38,6,Booster,41.34,Europe,Mobile,4,4.73,Team
+P0175,2025-05-14,86.78,6,Booster,26.72,Europe,Mobile,2,14.46,Solo
+P0176,2025-04-19,51.03,8,Weapon,17.02,Europe,Mobile,1,6.38,Team
+P0177,2025-04-15,101.47,9,Avatar,34.48,Europe,Mobile,8,11.27,Ranked
+P0177,2025-05-16,70.62,2,Skin,23.02,Europe,Mobile,1,35.31,Team
+P0177,2025-05-23,24.44,1,Booster,17.41,Europe,Mobile,2,24.44,Team
+P0177,2025-05-23,58.61,10,Booster,38.18,Europe,Mobile,2,5.86,Ranked
+P0178,2025-05-23,23.05,3,Weapon,7.12,North America,Mobile,4,7.68,Ranked
+P0178,2025-04-09,33.08,2,Skin,34.54,North America,Mobile,1,16.54,Team
+P0178,2025-04-02,95.22,7,Skin,9.82,North America,Mobile,10,13.6,Solo
+P0178,2025-05-03,75.25,8,Skin,45.43,North America,Mobile,1,9.41,Solo
+P0178,2025-04-20,83.43,2,Weapon,46.0,North America,Mobile,9,41.72,Solo
+P0179,2025-04-23,13.22,3,Avatar,47.09,Europe,Mobile,5,4.41,Ranked
+P0179,2025-04-23,27.66,9,Avatar,30.65,Europe,Mobile,9,3.07,Ranked
+P0179,2025-04-05,20.9,10,Weapon,26.44,Europe,Mobile,4,2.09,Solo
+P0179,2025-04-11,109.18,9,Skin,48.68,Europe,Mobile,3,12.13,Solo
+P0180,2025-05-15,74.83,8,Weapon,47.89,South America,Console,5,9.35,Ranked
+P0180,2025-04-25,56.65,9,Booster,20.38,South America,Console,1,6.29,Solo
+P0180,2025-04-30,22.13,3,Booster,38.11,South America,Console,8,7.38,Team
+P0180,2025-05-17,14.47,6,Booster,5.79,South America,Console,7,2.41,Team
+P0180,2025-05-09,90.98,8,Booster,27.7,South America,Console,6,11.37,Solo
+P0180,2025-04-13,104.25,8,Skin,18.37,South America,Console,10,13.03,Ranked
+P0180,2025-05-02,83.93,7,Skin,26.13,South America,Console,1,11.99,Team
+P0180,2025-04-10,53.43,10,Weapon,37.07,South America,Console,1,5.34,Solo
+P0180,2025-04-24,117.27,6,Emote,29.75,South America,Console,1,19.54,Solo
+P0181,2025-05-02,40.64,10,Emote,13.65,South America,Mobile,5,4.06,Ranked
+P0181,2025-05-01,83.33,7,Weapon,25.57,South America,Mobile,7,11.9,Team
+P0181,2025-04-07,23.44,8,Weapon,11.54,South America,Mobile,0,2.93,Team
+P0181,2025-04-07,91.16,2,Weapon,33.91,South America,Mobile,6,45.58,Team
+P0182,2025-04-20,78.42,2,Avatar,33.05,Asia,PC,7,39.21,Solo
+P0182,2025-05-21,61.26,5,Avatar,24.89,Asia,PC,4,12.25,Ranked
+P0182,2025-05-05,47.8,9,Skin,0.88,Asia,PC,6,5.31,Ranked
+P0182,2025-05-27,110.64,7,Emote,15.73,Asia,PC,7,15.81,Team
+P0182,2025-04-30,13.96,3,Booster,32.97,Asia,PC,2,4.65,Ranked
+P0182,2025-05-02,57.37,5,Skin,19.45,Asia,PC,9,11.47,Ranked
+P0182,2025-05-14,63.96,9,Emote,26.97,Asia,PC,7,7.11,Ranked
+P0182,2025-05-06,103.98,9,Emote,19.57,Asia,PC,9,11.55,Solo
+P0182,2025-04-25,77.86,6,Skin,16.02,Asia,PC,9,12.98,Team
+P0182,2025-04-03,24.1,6,Avatar,40.48,Asia,PC,0,4.02,Team
+P0183,2025-04-28,47.97,6,Weapon,17.56,South America,PC,3,8.0,Team
+P0183,2025-04-16,81.29,10,Skin,45.52,South America,PC,4,8.13,Solo
+P0183,2025-04-08,47.14,1,Emote,16.31,South America,PC,10,47.14,Ranked
+P0183,2025-05-26,56.47,9,Emote,13.33,South America,PC,9,6.27,Team
+P0183,2025-04-02,118.43,7,Avatar,19.52,South America,PC,1,16.92,Ranked
+P0183,2025-05-22,63.72,4,Booster,24.84,South America,PC,2,15.93,Team
+P0184,2025-04-28,32.19,2,Booster,10.7,Asia,Console,0,16.09,Ranked
+P0184,2025-04-20,119.59,7,Skin,31.23,Asia,Console,9,17.08,Solo
+P0184,2025-04-07,75.11,5,Avatar,28.32,Asia,Console,7,15.02,Solo
+P0184,2025-04-28,33.07,2,Avatar,41.19,Asia,Console,4,16.54,Ranked
+P0184,2025-04-28,82.98,6,Booster,20.72,Asia,Console,9,13.83,Solo
+P0184,2025-05-03,59.86,9,Avatar,44.04,Asia,Console,2,6.65,Solo
+P0184,2025-05-07,64.91,8,Avatar,46.86,Asia,Console,9,8.11,Team
+P0184,2025-05-25,94.6,7,Skin,36.33,Asia,Console,8,13.51,Ranked
+P0184,2025-04-13,50.07,3,Booster,7.52,Asia,Console,6,16.69,Solo
+P0184,2025-04-27,45.05,2,Emote,10.18,Asia,Console,4,22.52,Ranked
+P0185,2025-05-14,76.14,7,Weapon,5.68,Europe,Console,0,10.88,Solo
+P0185,2025-04-16,97.67,5,Emote,24.27,Europe,Console,6,19.53,Team
+P0185,2025-05-12,109.62,4,Skin,13.64,Europe,Console,4,27.41,Solo
+P0185,2025-05-21,98.39,9,Skin,32.21,Europe,Console,7,10.93,Solo
+P0185,2025-05-21,12.19,2,Skin,30.08,Europe,Console,6,6.09,Team
+P0186,2025-05-31,102.38,3,Avatar,5.6,North America,Console,1,34.13,Solo
+P0186,2025-05-04,83.06,10,Skin,12.59,North America,Console,3,8.31,Ranked
+P0186,2025-05-09,23.45,6,Emote,41.62,North America,Console,3,3.91,Team
+P0186,2025-05-30,56.52,3,Booster,8.76,North America,Console,7,18.84,Solo
+P0186,2025-04-27,37.97,10,Booster,24.52,North America,Console,1,3.8,Solo
+P0186,2025-04-21,70.03,8,Booster,12.32,North America,Console,2,8.75,Ranked
+P0187,2025-04-24,100.35,1,Avatar,48.34,South America,Mobile,0,100.35,Ranked
+P0187,2025-05-24,91.34,1,Weapon,45.87,South America,Mobile,4,91.34,Ranked
+P0187,2025-05-06,52.32,6,Weapon,6.1,South America,Mobile,7,8.72,Ranked
+P0187,2025-04-25,10.87,7,Weapon,15.04,South America,Mobile,4,1.55,Team
+P0187,2025-04-14,104.54,3,Emote,31.57,South America,Mobile,0,34.85,Team
+P0187,2025-04-18,105.31,8,Booster,36.85,South America,Mobile,6,13.16,Team
+P0188,2025-04-17,65.7,6,Avatar,30.11,Europe,Mobile,5,10.95,Team
+P0188,2025-04-30,86.47,1,Emote,32.08,Europe,Mobile,10,86.47,Ranked
+P0189,2025-04-13,79.11,6,Weapon,4.11,North America,Console,3,13.19,Ranked
+P0189,2025-05-04,88.49,3,Booster,34.29,North America,Console,7,29.5,Ranked
+P0189,2025-05-01,106.09,3,Avatar,8.67,North America,Console,5,35.36,Team
+P0190,2025-04-27,50.44,7,Avatar,47.24,Europe,PC,3,7.21,Team
+P0190,2025-04-02,114.29,9,Weapon,30.6,Europe,PC,1,12.7,Ranked
+P0190,2025-04-30,31.81,3,Emote,20.05,Europe,PC,9,10.6,Solo
+P0190,2025-04-17,26.42,6,Skin,47.36,Europe,PC,0,4.4,Solo
+P0190,2025-05-16,67.84,8,Weapon,24.71,Europe,PC,3,8.48,Ranked
+P0191,2025-05-18,64.36,3,Avatar,42.82,Asia,Console,3,21.45,Team
+P0191,2025-05-23,41.13,4,Weapon,9.02,Asia,Console,0,10.28,Team
+P0191,2025-04-19,117.37,4,Weapon,22.55,Asia,Console,5,29.34,Ranked
+P0191,2025-05-08,85.27,8,Weapon,0.52,Asia,Console,5,10.66,Solo
+P0192,2025-04-25,87.93,10,Avatar,3.65,Europe,Mobile,0,8.79,Team
+P0192,2025-04-04,46.61,4,Avatar,45.41,Europe,Mobile,10,11.65,Team
+P0192,2025-05-22,75.81,1,Avatar,12.68,Europe,Mobile,6,75.81,Solo
+P0192,2025-04-20,117.53,6,Avatar,48.4,Europe,Mobile,0,19.59,Solo
+P0192,2025-05-08,29.73,3,Booster,24.64,Europe,Mobile,7,9.91,Ranked
+P0192,2025-04-09,19.86,9,Skin,7.09,Europe,Mobile,5,2.21,Team
+P0192,2025-04-03,117.64,8,Emote,37.39,Europe,Mobile,4,14.71,Team
+P0193,2025-05-04,44.43,3,Emote,36.84,Africa,Console,2,14.81,Team
+P0193,2025-05-06,103.83,8,Skin,9.45,Africa,Console,3,12.98,Solo
+P0193,2025-04-12,13.94,5,Emote,35.3,Africa,Console,1,2.79,Solo
+P0193,2025-05-28,111.99,1,Avatar,17.83,Africa,Console,7,111.99,Team
+P0193,2025-04-30,64.23,3,Weapon,17.48,Africa,Console,4,21.41,Solo
+P0194,2025-05-03,100.48,10,Avatar,29.28,Europe,Mobile,0,10.05,Ranked
+P0194,2025-05-04,94.35,3,Weapon,46.02,Europe,Mobile,7,31.45,Team
+P0194,2025-05-14,20.37,6,Skin,14.21,Europe,Mobile,6,3.4,Solo
+P0195,2025-05-24,45.59,1,Emote,23.01,Africa,PC,7,45.59,Solo
+P0195,2025-05-11,115.07,10,Skin,0.29,Africa,PC,10,11.51,Ranked
+P0195,2025-05-10,114.6,6,Avatar,49.99,Africa,PC,2,19.1,Ranked
+P0195,2025-04-14,104.96,5,Skin,39.91,Africa,PC,8,20.99,Team
+P0195,2025-05-31,76.25,2,Weapon,12.76,Africa,PC,6,38.12,Team
+P0195,2025-04-06,12.26,4,Emote,19.43,Africa,PC,4,3.06,Solo
+P0196,2025-05-02,98.12,5,Booster,30.18,North America,Console,10,19.62,Ranked
+P0196,2025-04-07,101.53,9,Emote,24.48,North America,Console,7,11.28,Solo
+P0196,2025-04-18,71.94,7,Booster,37.82,North America,Console,9,10.28,Solo
+P0197,2025-04-28,20.22,9,Weapon,48.66,South America,Mobile,10,2.25,Team
+P0197,2025-05-14,88.5,8,Avatar,31.48,South America,Mobile,1,11.06,Ranked
+P0197,2025-04-19,61.5,2,Weapon,15.02,South America,Mobile,10,30.75,Team
+P0198,2025-04-28,42.5,1,Skin,3.83,Europe,Mobile,8,42.5,Ranked
+P0198,2025-04-07,66.17,7,Avatar,23.23,Europe,Mobile,4,9.45,Solo
+P0198,2025-04-23,38.03,2,Emote,0.81,Europe,Mobile,2,19.02,Ranked
+P0198,2025-05-21,30.04,7,Booster,4.16,Europe,Mobile,5,4.29,Solo
+P0198,2025-05-08,89.65,8,Booster,40.39,Europe,Mobile,2,11.21,Ranked
+P0199,2025-05-18,118.04,5,Avatar,5.32,Europe,PC,0,23.61,Ranked
+P0199,2025-04-01,53.44,1,Emote,32.79,Europe,PC,6,53.44,Solo
+P0199,2025-05-26,82.35,10,Avatar,24.34,Europe,PC,9,8.23,Ranked
+P0199,2025-04-24,85.97,7,Weapon,4.38,Europe,PC,0,12.28,Team
+P0200,2025-05-15,116.76,1,Weapon,24.06,North America,PC,10,116.76,Solo
+P0200,2025-04-16,57.94,9,Emote,4.3,North America,PC,2,6.44,Solo
+P0200,2025-05-01,56.41,2,Emote,45.12,North America,PC,7,28.2,Solo
+P0200,2025-05-01,12.16,8,Booster,12.13,North America,PC,9,1.52,Ranked
